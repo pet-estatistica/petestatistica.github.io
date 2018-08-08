@@ -1,0 +1,79 @@
+<div class="container" id="contact">
+
+    <div class="row">
+        <div class="col-md-8">
+
+            <section>
+
+                {{ .Content }}
+
+<!--
+                {{ if isset .Site.Params "email" }}
+
+                <div class="heading">
+                  <h3>{{ i18n "contactForm" }}</h3>
+                </div>
+
+                <div id="contact-message"></div>
+
+                <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                              <label for="name">{{ i18n "contactName" }}</label>
+                                <input type="text" class="form-control" name="name" id="name" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="email">{{ i18n "contactMail" }}</label>
+                                <input type="text" class="form-control" name="email" id="email" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                              <label for="message">{{ i18n "contactMessage" }}</label>
+                                <textarea id="message" class="form-control" name="message" required></textarea>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-12 text-center">
+                          <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n "contactSend" }}</button>
+
+                        </div>
+                    </div>
+                </form>
+
+                {{ end }}
+-->
+
+            </section>
+
+        </div>
+
+        <div class="col-md-4">
+
+            {{ if isset .Site.Params "address" }}
+            <section>
+
+              <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
+
+                {{ .Site.Params.address | safeHTML }}
+
+            </section>
+
+            {{ end }}
+
+        </div>
+
+    </div>
+    <!-- /.row -->
+</div>
+
+<!--
+{{ partial "map.html" . }}
+-->
+
+<p align="center">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1514.7228466864433!2d-49.23164158624515!3d-25.450350911560857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dce50fe3500deb%3A0xa70fde7b77c59935!2sSetor+de+Exatas+da+UFPR!5e0!3m2!1spt-BR!2sbr!4v1512687405005" width="600" height="450" frameborder="0" style="border:0" align="middle" allowfullscreen></iframe>
+</p>

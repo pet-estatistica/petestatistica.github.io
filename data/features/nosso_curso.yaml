@@ -1,0 +1,5 @@
+weight: 3
+name: "Nosso Curso"
+icon: "fa fa-graduation-cap"
+description: |
+  Breve texto sobre o curso. [Aqui](../download/teste.pdf)

@@ -1,0 +1,42 @@
++++
+title = "Teste de arquivo Rmarkdown"
+author = "Walmes Zeviani"
+date = "2017-12-14"
+tags = ["teste", "rmarkdown"]
+categories = ["programming"]
+banner = "img/chico/imgprefix-plot1-1.png"
++++
+
+# Instruções
+
+Esse documento Rmarkdown deve ser convertido em md usando
+`knitr::knit("doc.Rmd")`.  Foi observado que o caption para figuras não
+funciona.  As equações em LaTeX também não.
+
+```{r, include = FALSE}
+library(knitr)
+system("pwd")
+system("cd ../ && pwd")
+system("cd ../../ && pwd")
+system("cd ../../static/img/ && pwd")
+opts_knit$set(
+    # Onde criar as figuras.
+    base.dir = "../../static/img/chico/",
+    # Que prefixo usar.
+    base.url = "/img/chico/")
+
+opts_chunk$set(message = FALSE,
+               error = FALSE,
+               warning = FALSE,
+               fig.width = 9,
+               fig.height = 6,
+               eval.after = "fig.cap",
+               # dpi = 90,
+               # dev = "png",
+               dev.args = list(family = "Helvetica"),
+               fig.path = "imgprefix-")
+```
+
+```{r plot1, echo = FALSE, fig.cap = "Olá! Teste de caption."}
+plot(dist ~ speed, cars)
+```

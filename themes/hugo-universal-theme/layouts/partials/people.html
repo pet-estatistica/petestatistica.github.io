@@ -1,0 +1,67 @@
+<div class="container" id="people">
+  {{ range $index, $element := sort .Site.Data.people "weight" }}
+
+  <div class="row">
+
+    <div class="col-md-12" id="blog-listing-medium">
+
+      <section class="post">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="image">
+
+              {{ if .url }}
+              <a href="{{ .url }}" target="_blank">
+                <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive courses zoomout" />
+              </a>
+              {{ else }}
+              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive courses zoomout" />
+              {{ end }}
+
+            </div>
+          </div>
+          <div class="col-md-9">
+
+            {{ if .url }}
+            <h3><a href="{{ .url }}">{{ $element.name }}</a></h3>
+            {{ else }}
+            <h3>{{ $element.name }}</h3>
+            {{ end }}
+
+            <ul class="people">
+              {{ if .email }}
+              <li><i class="fa fa-envelope"></i> {{ $element.email | markdownify }}</li>
+              {{ end }}
+             
+              {{ if .linkedin }}
+              <li><i class="fa fa-comment"></i> {{ $element.linkedin | markdownify }} </li>
+              {{ end }}
+
+              {{ if .url }}
+              <li><i class="fa fa-external-link"></i> {{ $element.url | markdownify }}</li>
+              {{ end }}
+            
+              {{ if .lattes }}
+              <li><i class="ai ai-lattes"></i> {{ $element.lattes | markdownify }}</li>
+              {{ end }}
+              
+              {{ if .mendeley }}
+              <li><i class="ai ai-lattes"></i> {{ $element.mendeley | markdownify }}</li>
+              {{ end }}
+
+            </ul>
+
+            <p class="intro">{{ $element.description | markdownify }}</p>
+
+          </div>
+        </div>
+      </section>
+
+    </div>
+
+  </div>
+  {{ end }}
+
+  {{ .Content }}
+
+</div>

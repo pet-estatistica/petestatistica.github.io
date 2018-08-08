@@ -1,0 +1,22 @@
+#footer {
+    background: #264b6b;
+}
+.bar.background-pentagon {
+    background: url('../img/ice_background.jpg') center center repeat;
+}
+ul.people > li {
+    list-style: none;
+}
+#heading-breadcrumbs {
+    background: url('../img/matrix_background2.jpg') center center repeat;
+    padding: 20px 0;
+    margin-bottom: 40px;
+}
+#heading-breadcrumbs h1 {
+    color: #fefffc;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-align: center;
+}
