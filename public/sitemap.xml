@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/blog/2015/10/02/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/blog/2015/09/17/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/blog/2015/06/24/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/blog/1/01/01/modelo_parceiro/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/general/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/instructors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/modules/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/people/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/project/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/blog/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/tags/golang/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/inscricoes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/tags/ipsum/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/processo_seletivo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/tags/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://petestatistica.leg.ufpr.br/tags/theme/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
