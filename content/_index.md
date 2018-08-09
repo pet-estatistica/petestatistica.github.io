@@ -6,7 +6,7 @@ background-color: #e9c8c1; border-color: #cb703f;">
 
 Processo Seletivo PET-Estatística 2018/2.</br>
 
-<a href="../download/Edital 2018-02.pdf">EDITAL</a></br>
+<a href="..site/download/Edital 2018-02.pdf">EDITAL</a></br>
 
 <a href="https://form.jotformz.com/82126752847665">INSCRIÇÕES</a>
 
