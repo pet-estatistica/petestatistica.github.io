@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pet-Estatística</title>
-    <link>https://pet-estatistica.github.io/site/</link>
+    <link>https://pet-estatistica.github.io/</link>
     <description>Recent content on Pet-Estatística</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://pet-estatistica.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pet-estatistica.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linked post</title>
-      <link>https://pet-estatistica.github.io/site/blog/2015/10/02/linked-post/</link>
+      <link>https://pet-estatistica.github.io/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/blog/2015/10/02/linked-post/</guid>
+      <guid>https://pet-estatistica.github.io/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
       <title>Go is for lovers</title>
-      <link>https://pet-estatistica.github.io/site/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>https://pet-estatistica.github.io/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>https://pet-estatistica.github.io/blog/2015/09/17/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>https://pet-estatistica.github.io/site/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>https://pet-estatistica.github.io/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <guid>https://pet-estatistica.github.io/blog/2015/08/03/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -47,20 +47,20 @@ Follow the following steps:
     
     <item>
       <title>Creating a new theme</title>
-      <link>https://pet-estatistica.github.io/site/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>https://pet-estatistica.github.io/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>https://pet-estatistica.github.io/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://pet-estatistica.github.io/site/blog/1/01/01/main/</link>
+      <link>https://pet-estatistica.github.io/blog/1/01/01/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/blog/1/01/01/main/</guid>
+      <guid>https://pet-estatistica.github.io/blog/1/01/01/main/</guid>
       <description>+++ title = “Teste de arquivo Rmarkdown” author = “Walmes Zeviani” date = “2017-12-14” tags = [“teste”, “rmarkdown”] categories = [“programming”] banner = “img/chico/imgprefix-plot1-1.png” +++
 Instruções Esse documento Rmarkdown deve ser convertido em md usando knitr::knit(&amp;quot;doc.Rmd&amp;quot;). Foi observado que o caption para figuras não funciona. As equações em LaTeX também não.
  Figure 1: Olá! Teste de caption.   </description>
@@ -68,10 +68,10 @@ Instruções Esse documento Rmarkdown deve ser convertido em md usando knitr::kn
     
     <item>
       <title></title>
-      <link>https://pet-estatistica.github.io/site/blog/1/01/01/modelo_parceiro/</link>
+      <link>https://pet-estatistica.github.io/blog/1/01/01/modelo_parceiro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/blog/1/01/01/modelo_parceiro/</guid>
+      <guid>https://pet-estatistica.github.io/blog/1/01/01/modelo_parceiro/</guid>
       <description>modelo de arquivo.yaml para parceiros no site o nome do arquivo deve ser no formato: x.yaml onde x é o numero que vai representar a ordem da esquerda pra direita que o parceiro vai aparecer nome do parceiro name: &amp;ldquo;R&amp;rdquo;
 imagem do parceiro que deve estar no diretório static/img/clients image: &amp;ldquo;img/clients/R-logo.png&amp;rdquo;
 link para pagina do parceiro url: &amp;ldquo;https://cran.r-project.org/&amp;quot;</description>
@@ -79,65 +79,65 @@ link para pagina do parceiro url: &amp;ldquo;https://cran.r-project.org/&amp;quo
     
     <item>
       <title></title>
-      <link>https://pet-estatistica.github.io/site/general/</link>
+      <link>https://pet-estatistica.github.io/general/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/general/</guid>
+      <guid>https://pet-estatistica.github.io/general/</guid>
       <description>Estrutura do curso O curso de especialização em Data Science &amp;amp; Big Data é uma parceria entre os Departamentos de Estatística e Informática da Universidade Federal do Paraná. Tal parceria oferece à você a oportunidade única de aprender e discutir todos os aspectos da ciência de dados e Big Data com professores especializados em cada uma das etapas do Data Science&amp;rsquo;s workflow. Aliando as poderosas ferramentas de análises estatísticas com as tecnologias para armazenamento e manipulação de gigantescas massas de dados, você estará pronto para prosperar na revolução da era da informação.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://pet-estatistica.github.io/site/instructors/</link>
+      <link>https://pet-estatistica.github.io/instructors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/instructors/</guid>
+      <guid>https://pet-estatistica.github.io/instructors/</guid>
       <description>Corpo docente Wagner Hugo Bonat (Coordenador)  Professor, Departamento de Estatística, Universidade Federal do Paraná (2010 &amp;ndash; atual). Formação:  Mestrado em Métodos Numéricos em Engenharia, Universidade Federal do Paraná (2010). PhD Mathematics and Computer Science, University of Southern Denmark (2016).  Áreas de concentração:  Métodos estatísticos. Inteligência computacional.  Interesses:  Modelagem estatística. Modelos multivariados de dispersão. Inferência estatística em alta dimensão.         Walmes Marques Zeviani (Vice-Coordenador)  Professor, Departamento de Estatística, Universidade Federal do Paraná (2010 &amp;ndash; atual).</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://pet-estatistica.github.io/site/modules/</link>
+      <link>https://pet-estatistica.github.io/modules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/modules/</guid>
+      <guid>https://pet-estatistica.github.io/modules/</guid>
       <description>Módulo I - Fundamentos para Data Science e Big Data Infraestrutura computational (60 hrs)  Infraestrutura de software.  Shell script para automatizar tarefas. Estrutura de sistemas operacionais.  Infraestrutura de comunicação.  Conceitos de aplicação de redes. Protocolos web. Nuvem computacional.  Infraestrutura de alto desempenho.  Paralelismo e distribuição. Clusters computacionais. Submissão e controle de tarefas em clusters.   Inferência estatística para ciência de dados (60 hrs)  Introdução à probabilidade e variáveis aleatórias.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://pet-estatistica.github.io/site/people/</link>
+      <link>https://pet-estatistica.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/people/</guid>
+      <guid>https://pet-estatistica.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://pet-estatistica.github.io/site/project/</link>
+      <link>https://pet-estatistica.github.io/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/project/</guid>
+      <guid>https://pet-estatistica.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>https://pet-estatistica.github.io/site/contact/</link>
+      <link>https://pet-estatistica.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/contact/</guid>
+      <guid>https://pet-estatistica.github.io/contact/</guid>
       <description>Estamos aqui para orientar você Se você tem dúvida sobre algo, entre em contato com a Coordenação pelos meios
  Coordenador: Wagner Hugo Bonat. Email: wbonat@ufpr.br. Telefone: (41) 3361-3573. Página no Facebook: https://www.facebook.com/leg.ufpr/.  Agradecemos seu interesse.</description>
     </item>
     
     <item>
       <title>Inscrições</title>
-      <link>https://pet-estatistica.github.io/site/inscricoes/</link>
+      <link>https://pet-estatistica.github.io/inscricoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/inscricoes/</guid>
+      <guid>https://pet-estatistica.github.io/inscricoes/</guid>
       <description>.warning { padding: 20px; /* background-color: #ff9800; */ background-color: #ff1d1d; color: white; font-size: 18px; }  Edital de inscrição e seleção INSCRIÇÕES ENCERRADAS PARA O PROCESSO SELETIVO 2018/1.  
 O processo seletivo do Curso de Especialização em Data Science &amp;amp; Big Data é baseada em 3 etapas:
  Carta de intenções Curriculum Entrevista  O edital de inscrição e seleção está disponível no hyperlink a seguir.
@@ -146,19 +146,19 @@ O processo seletivo do Curso de Especialização em Data Science &amp;amp; Big D
     
     <item>
       <title>Perguntas frequentes</title>
-      <link>https://pet-estatistica.github.io/site/faq/</link>
+      <link>https://pet-estatistica.github.io/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/faq/</guid>
+      <guid>https://pet-estatistica.github.io/faq/</guid>
       <description>Não sou Estatístico e nem Cientista da Computação. Consigo acompanhar o curso? O curso foi planejado para ser acessível aos proficionais com perfil analítico e familiaridade com linguagens de programação. Tal perfil é encontrado em diversos cursos de graduação tais como: economia, administração, gestão da informação entre outros. É importante salientar que a enfâse deste curso é prática, baseada em aplicações reais. Sendo assim, os detalhes matemáticos, tais como demonstrações de teoremas serão reduzidos ao mínimo e/ou substituídos por ilustrações computacionais.</description>
     </item>
     
     <item>
       <title>Processo Seletivo 2018/2</title>
-      <link>https://pet-estatistica.github.io/site/processo_seletivo/</link>
+      <link>https://pet-estatistica.github.io/processo_seletivo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pet-estatistica.github.io/site/processo_seletivo/</guid>
+      <guid>https://pet-estatistica.github.io/processo_seletivo/</guid>
       <description>Todo ano o PET-Estatística realiza dois processos seletivos, comumente um em cada semestre. O PET conta com 12 bolsas e ainda com algumas vagas para alunos não bolsistas.
 Podem se inscrever para nosso processo seletivo acadêmicos regularmente matriculados na Graduação de Estatística da UFPR, a partir do 2º período. É necessário também que o candidato tenha disponibilidade para dedicar 20 horas semanais exclusivamente para atividades do PET e não ser bolsista de nenhum outro programa de bolsas da universidade.</description>
     </item>
