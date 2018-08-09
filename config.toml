@@ -1,7 +1,8 @@
-baseurl = "https://pet-estatistica.github.io/site/"
+baseurl = "https://pet-estatistica.github.io/"
 title = "Pet-Estatística"
 theme = "hugo-universal-theme"
 themesDir = "./themes/"
+publishDir = "docs"
 languageCode = "en-US"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "pt-br"
@@ -44,7 +45,7 @@ paginate = 10
     name = "Projetos"
     url  = "/project/"
     weight = 4
-    
+
 [[menu.main]]
     name = "O PET"
     weight = 2
@@ -54,12 +55,12 @@ paginate = 10
        name = "Integrantes"
        url  = "/people/"
        weight = 1
-        
+
    [[menu.main]]
        parent = "O PET"
        name = "Sobre"
        weight = 2
-       
+
 [[menu.main]]
     name = "Contato"
     url  = "/contato/"
