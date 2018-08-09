@@ -1,4 +1,4 @@
-baseurl = "https://pet-estatistica.github.io/"
+baseurl = "https://pet-estatistica.github.io/site/"
 title = "Pet-Estatística"
 theme = "hugo-universal-theme"
 themesDir = "./themes/"

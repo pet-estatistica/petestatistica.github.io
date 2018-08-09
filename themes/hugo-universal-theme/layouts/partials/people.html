@@ -29,24 +29,25 @@
             {{ end }}
 
             <ul class="people">
+              
+              {{ if .url }}
+              <li><i class="fa fa-external-link"></i> {{ $element.url | markdownify }}</li>
+              {{ end }}
+              
               {{ if .email }}
               <li><i class="fa fa-envelope"></i> {{ $element.email | markdownify }}</li>
               {{ end }}
              
-              {{ if .linkedin }}
-              <li><i class="fa fa-comment"></i> {{ $element.linkedin | markdownify }} </li>
-              {{ end }}
-
-              {{ if .url }}
-              <li><i class="fa fa-external-link"></i> {{ $element.url | markdownify }}</li>
-              {{ end }}
-            
               {{ if .lattes }}
               <li><i class="ai ai-lattes"></i> {{ $element.lattes | markdownify }}</li>
               {{ end }}
               
+              {{ if .linkedin }}
+              <li><i class="fa fa-comment"></i> {{ $element.linkedin | markdownify }} </li>
+              {{ end }}
+
               {{ if .mendeley }}
-              <li><i class="ai ai-lattes"></i> {{ $element.mendeley | markdownify }}</li>
+              <li><i class="ai ai-mendeley"></i> {{ $element.mendeley | markdownify }}</li>
               {{ end }}
 
             </ul>
