@@ -2,7 +2,7 @@
     background: #264b6b;
 }
 .bar.background-pentagon {
-    background: url('../img/ice_background.jpg') center center repeat;
+    background: url('../img/background_square.jpg') center center repeat;
 }
 ul.people > li {
     list-style: none;
