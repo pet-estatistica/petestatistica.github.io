@@ -1,12 +1,18 @@
 weight: 201409
-name: "jhenifer"
-image: "../img/ice_background.jpg"
-url: "https://www.google.com"
-email: "https://www.google.com"
-lattes: "https://www.google.com"
-linkedin: "https://www.google.com"
-mendeley: "https://www.google.com"
+name: "Jhenifer Caetano Veloso"
+image: "../img/people/avatarjcv.jpg"
+url: "https://github.com/jhecaetano"
+email: "jhenicaet@gmail.com"
+linkedin: "https://www.linkedin.com/in/jhecaetano"
 description: >
-  enfowrjdbnowrbgowrnbvojwnbojwbnowbmfs
+  <p align="justify">Estudante do curso de Estatística e Co-Founder da Jurimetric. Áreas de interesse:</p>
+  
+   -   Jurimetria (principal linha de pesquisa)  
+   
+   -   Data Science  
+   
+   -   Modelagem estatística  
+   
+   -   Estatística computacional
  
 

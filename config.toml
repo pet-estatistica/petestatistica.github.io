@@ -128,7 +128,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "wbonat@ufpr.br"
+    email = "pet.estatistica.ufpr@gmail.com"
 
     #about_us = "<p>Curso de Especialização em</br><strong>Data Science & Big Data</strong> UFPR</p><p><img src='../img/logo.jpg' width='200px'></p>"
     copyright = "Copyright (c) 2018 - 2019, Pet-Estatística; Todos os direitos reservados."
