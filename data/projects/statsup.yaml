@@ -2,8 +2,9 @@ name: "Stats-Up"
 image: "../img/projects/ico-stats-up.png"
 url: ../statsup/
 description: >
- O PSE (processo seletivo estendido) é a terceira fase do vestibular para o aluno 
- que se aplica para o Curso de Estatística. Historicamente, nunca foram preenchidas
- as 66 vagas disponíveis para o Curso de Estatística. Visto isso surgiu o Stats Up
- que é um projeto com o intuito de criar materiais e dar aulas de reforço para os
- alunos do PSE.
+ <p align="justify">O PSE (processo seletivo estendido) é a terceira fase 
+ do vestibular para o aluno que se aplica para o Curso de Estatística. 
+ Historicamente, nunca foram preenchidas as 66 vagas disponíveis para o 
+ Curso de Estatística. Visto isso surgiu o Stats Up que é um projeto com 
+ o intuito de criar materiais e dar aulas de reforço para os alunos do 
+ PSE.</p>
