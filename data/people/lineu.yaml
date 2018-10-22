@@ -1,11 +1,31 @@
-# weight:  data q entrou no pet(ano.mês) ex: 201409
-name: "lineu"
-image: "../img/ice_background.jpg"
-url: "https://www.google.com"
-email: "https://www.google.com"
-lattes: "https://www.google.com"
-linkedin: "https://www.google.com"
-mendeley: "https://www.google.com"
+weight: 201601
+name: "Lineu Alberto Cavazani de Freitas"
+image: "../img/people/avatar_lineu.jpg"
+# url: "acrescentar página pessoal aqui"
+email: "lialcafre@gmail.com"
+lattes: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8862332U4"
+# linkedin: "https://www.google.com"
+# mendeley: "https://www.google.com"
 description: >
-  enfowrjdbnowrbgowrnbvojwnbojwbnowbmfs
+ <p align="justify">Sou aluno do curso de Estatística da Universidade Federal 
+ do Paraná desde 2014, com participações em projetos do Programa de Educação 
+ Tutorial (PET) desde 2016. Dentre minhas contribuições em projetos acadêmicos 
+ destacam-se minha participação na disciplina de Modelos Lineares Generalizados 
+ como monitor, participação no labestData, coorganização da 63ª RBras e do 
+ Rday realizados em Curitiba, além do desenvolvimento de atividades de ensino, 
+ pesquisa e extensão realizadas no PET.</p>
+ 
+ <p align="justify">Tenho interesse nas áreas:</p>
+ 
+   -  Visualização de dados
+ 
+   -  Modelos de regressão
+ 
+   -  GLM
+ 
+   -  GAMLSS
+ 
+   -  McGLM
+ 
+   -  Ensino de Estatística
  

@@ -1,11 +1,15 @@
-# weight:  data q entrou no pet(ano.mês) ex: 201409
-name: "augusto"
-image: "../img/ice_background.jpg"
-url: "https://www.google.com"
-email: "https://www.google.com"
-lattes: "https://www.google.com"
-linkedin: "https://www.google.com"
-mendeley: "https://www.google.com"
+weight: 201709
+name: "Augusto Buzzoni Calcanhoto"
+#image: "../img/ice_background.jpg"
+url: "https://Buzzonicalcanhoto.github.io/perfil/"
+email: "augusto_calcanhoto@hotmail.com"
+#lattes: "https://www.google.com"
+#linkedin: "https://www.google.com"
+#mendeley: "https://www.google.com"
 description: >
-  enfowrjdbnowrbgowrnbvojwnbojwbnowbmfs
- 
+  <p align="justify"> Interesses: </p>
+    
+    -  Programação
+    
+    
+    - Regressão Não-Linear
