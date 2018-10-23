@@ -4,7 +4,7 @@ title = "Pesquisas"
 
 # Lista de todos os projetos individuais dos integrantes do PET Estatística
 
-### Análise comportamental de ovelhas submetidas a intervenção humana usando GAMLSS
+### Análise Comportamental de Ovelhas Submetidas a Intervenção Humana Usando GAMLSS
 
 **Autor:** Lineu Alberto Cavazani de Freitas
 
@@ -26,7 +26,28 @@ variáveis foram analisadas: um referente ao número de mudanças de postura
 dos animais e outro referente à proporção do tempo nas posturas, tratando-se 
 portanto, de respostas que configuram contagens e proporções.</p>
 
-### Projeto de extensão areião das águas
+### Algoritmos para Predição de Processos Movidos Contra Grandes Litigantes
+
+**Autor:** Jhenifer Caetano Veloso
+
+**Coautor:** Eduardo Elias Ribeiro Junior
+
+<p align="justify">Empresas envolvidas como réu em um alto número de ações 
+são conhecidas como grandes litigantes, entre elas estão bancos e prestadoras 
+de serviços de telefonia. Dado o atual grande número de processos em trâmite, 
+a presente pesquisa visa auxiliar a estratégia utilizada pelo autor da ação, 
+a fim de diminuir a quantidade e o tempo das ações. A base de dados utilizada 
+tem origem na Consulta de Processos de Primeiro Grau do Tribunal de Justiça 
+de São Paulo e é composta de sentenças, homologadas em 2014, em primeira 
+instância de processos movidos contra grandes litigantes e é composta por 
+12.616 observações e 12 variáveis, sendo o resultado da ação a variável 
+resposta. Para tanto, são propostos modelos preditivos, baseados na distribuição 
+multinomial e no support vector machine (SVM) com kernel gaussiano. Os modelos 
+baseados na distribuição multinomial são ajustados pelo método da máxima 
+verossimilhança e a avaliação de características relevantes é feita pelo 
+teste de razão de verossimilhanças.</p>
+
+### Projeto de Extensão Areião das Águas
 
 **Petiano:** Jayme Gomes dos Santos Junior
 
@@ -44,7 +65,7 @@ a revitalização do rio areiãozinho e através da transmissão de conhecimento
 em relação a preservação do rio tanto para moradores quanto autoridades 
 é possível o convívio sustentável no entorno do rio areiãozinho.</p>
 
-### Efeito do amidarona em pacientes com doença de chagas
+### Efeito do Amidarona em Pacientes com Doença de Chagas
 
 **Petiano:** Nivea S. Zamaro
 

@@ -1,3 +1,7 @@
++++
+title = "Minicurso R"
++++
+
 # Descrição
 
 <p align="justify">
@@ -35,9 +39,9 @@ Materiais que serão utilizados nas aulas:
 
 **Aula 1**
 
- - [Visão Geral](../download/mcr_aula1-visaogeral.pdf)
+ - [Visão Geral](../download/mcr_aula1_visaogeral.pdf)
  - [Resumo aula 1](../download/mcr_aula1_resumo.html)
- - [script](../download/mcr_aula1_script.R)
+ - [Script](../download/mcr_aula1_script.R)
  - [Exercícios](../download/mcr_aula1_exercicios.html) <!-- - [gabarito]() -->
 
 <!-- **Aula 2** -->
