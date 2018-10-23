@@ -97,15 +97,6 @@ link para pagina do parceiro url: &amp;ldquo;https://cran.r-project.org/&amp;quo
     
     <item>
       <title></title>
-      <link>https://pet-estatistica.github.io/site/minicurso_r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pet-estatistica.github.io/site/minicurso_r/</guid>
-      <description>Descrição A ideia de oferecer um minicurso de R surgiu da demanda de estudantes que gostariam de aprender a linguagem de programação mais utilizada para análises estatísticas. Aliado a essa demanda e ao conhecimento de R dos integrantes do PET-Estatística, decidiu-se criar um minicurso que pudesse introduzir a comunidade interna da UFPR ao ambiente R. Objetivos O minicurso R tem dois objetivos principais. O primeiro é interno do PET de desenvolver uma atividade de ensino, na qual os petianos possam preparar e ministrar aulas sobre o R.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://pet-estatistica.github.io/site/modules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -151,6 +142,33 @@ Para um aluno ter êxito, é necessário que haja uma mudança de postura com re
     </item>
     
     <item>
+      <title>Editais</title>
+      <link>https://pet-estatistica.github.io/site/editais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pet-estatistica.github.io/site/editais/</guid>
+      <description>Nenhum edital em aberto no momento.</description>
+    </item>
+    
+    <item>
+      <title>Eventos</title>
+      <link>https://pet-estatistica.github.io/site/eventos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pet-estatistica.github.io/site/eventos/</guid>
+      <description> Aqui você confere todas as informações dos eventos relacionados à Estatística dentro e fora da Universidade. </description>
+    </item>
+    
+    <item>
+      <title>Feira de Cursos e Profissões</title>
+      <link>https://pet-estatistica.github.io/site/feira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pet-estatistica.github.io/site/feira/</guid>
+      <description>Descrição A Feira Cursos e Profissões da UFPR é um evento anual para divulgação dos Cursos existentes na universidade, é um evento de alta visibilidade e impacto, principalmente para o Curso de Estatística, que tem uma baixa procura no vestibular. O PET Estatística organiza e ocupa o stand do Curso de Estatística onde oferece para os visitantes um panorama geral da profissão de Estatístico e detalhes do Curso visando aumentar o número de interessados pelo Curso no vestibular.</description>
+    </item>
+    
+    <item>
       <title>Inscrições</title>
       <link>https://pet-estatistica.github.io/site/inscricoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -160,6 +178,15 @@ Para um aluno ter êxito, é necessário que haja uma mudança de postura com re
 O processo seletivo do Curso de Especialização em Data Science &amp;amp; Big Data é baseada em 3 etapas:
  Carta de intenções Curriculum Entrevista  O edital de inscrição e seleção está disponível no hyperlink a seguir.
  EDITAL Nº 01/2018 - INSCRIÇÃO E SELEÇÃO.</description>
+    </item>
+    
+    <item>
+      <title>Minicurso R</title>
+      <link>https://pet-estatistica.github.io/site/minicurso_r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pet-estatistica.github.io/site/minicurso_r/</guid>
+      <description>Descrição A ideia de oferecer um minicurso de R surgiu da demanda de estudantes que gostariam de aprender a linguagem de programação mais utilizada para análises estatísticas. Aliado a essa demanda e ao conhecimento de R dos integrantes do PET-Estatística, decidiu-se criar um minicurso que pudesse introduzir a comunidade interna da UFPR ao ambiente R. Objetivos O minicurso R tem dois objetivos principais. O primeiro é interno do PET de desenvolver uma atividade de ensino, na qual os petianos possam preparar e ministrar aulas sobre o R.</description>
     </item>
     
     <item>
@@ -177,7 +204,7 @@ O processo seletivo do Curso de Especialização em Data Science &amp;amp; Big D
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pet-estatistica.github.io/site/pesq/</guid>
-      <description>Lista de todos os projetos individuais dos integrantes do PET Estatística Análise comportamental de ovelhas submetidas a intervenção humana usando GAMLSS Autor: Lineu Alberto Cavazani de Freitas
+      <description>Lista de todos os projetos individuais dos integrantes do PET Estatística Análise Comportamental de Ovelhas Submetidas a Intervenção Humana Usando GAMLSS Autor: Lineu Alberto Cavazani de Freitas
 Orientador: Cesar Augusto Taconeli
 Co-orientador: José Luiz Padilha da Silva
 O trabalho tem como objetivo analisar o efeito da escovação e isolamento social no comportamento de ovelhas. Os dados foram coletados em um experimento com 20 animais classificados como reativos ou não ao isolamento social e avaliados em 3 sessões experimentais, e em 3 momentos distintos: antes, durante e após a escovação.</description>
@@ -209,6 +236,17 @@ Podem se inscrever para nosso processo seletivo acadêmicos regularmente matricu
       
       <guid>https://pet-estatistica.github.io/site/statsup/</guid>
       <description>Descrição O vestibular para o curso de Estatística da UFPR possui três fases, as duas primeiras são como a de todos os outros cursos da universidade, e a terceira é chamada PSE (Processo Seletivo Estendido), nesta fase os candidatos estudam duas disciplinas por um semestre, fazendo 4 provas para cada disciplina. O vestibulando precisa obter uma média 5 em cada matéria para poder ingressar no curso, sendo que se pode descartar a menor nota das 4 provas.</description>
+    </item>
+    
+    <item>
+      <title>Vagas</title>
+      <link>https://pet-estatistica.github.io/site/vagas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pet-estatistica.github.io/site/vagas/</guid>
+      <description>Vagas abertas Outubro/2018 MIRUM DIGITAL DO BRASIL LTDA Bolsa: R$ 1,000,00 por mês 02 Vales transporte/dia estagiado + Vale alimentação/refeição
+Atividades: Atualizar relatórios estatísticos de indicadores da empresa; auxiliar na recuperação de dados a partir de banco de dados; auxiliar na coleta de dados e análise de dados estatísticos dos processos. Horário: 10:00 às 12:00 e 13:00 às 17:00/ Segunda a Sexta-feira
+Enviar currículo por e-mail e aguardar retorno da empresa E-mail: thaisa.</description>
     </item>
     
   </channel>

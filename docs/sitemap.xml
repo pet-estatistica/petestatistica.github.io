@@ -44,10 +44,6 @@
   </url>
   
   <url>
-    <loc>https://pet-estatistica.github.io/site/minicurso_r/</loc>
-  </url>
-  
-  <url>
     <loc>https://pet-estatistica.github.io/site/modules/</loc>
   </url>
   
@@ -79,6 +75,18 @@
   </url>
   
   <url>
+    <loc>https://pet-estatistica.github.io/site/editais/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pet-estatistica.github.io/site/eventos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pet-estatistica.github.io/site/feira/</loc>
+  </url>
+  
+  <url>
     <loc>https://pet-estatistica.github.io/site/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
@@ -101,6 +109,10 @@
   </url>
   
   <url>
+    <loc>https://pet-estatistica.github.io/site/minicurso_r/</loc>
+  </url>
+  
+  <url>
     <loc>https://pet-estatistica.github.io/site/faq/</loc>
   </url>
   
@@ -117,13 +129,13 @@
   </url>
   
   <url>
-    <loc>https://pet-estatistica.github.io/site/categories/programming/</loc>
+    <loc>https://pet-estatistica.github.io/site/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pet-estatistica.github.io/site/tags/programming/</loc>
+    <loc>https://pet-estatistica.github.io/site/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -154,6 +166,10 @@
     <loc>https://pet-estatistica.github.io/site/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pet-estatistica.github.io/site/vagas/</loc>
   </url>
   
 </urlset>
