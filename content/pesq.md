@@ -84,14 +84,16 @@ em relação a preservação do rio tanto para moradores quanto autoridades
 
 **Orientador:** José Luiz Padilha da Silva
 
+**Co-orientador:** Walmes Marques Zeviani
+
 <p align="justify">Atualmente uma grande porcentagem dos investidores do 
 mercado financeiro toma decisões baseadas em análises técnicas e gráficas. 
 Entretanto, o fator comportamental e emocional dos indivíduos e a existência 
 de diferentes opiniões entre analistas técnicos interfere na tomada de decisão 
-de compra e venda de ativos financeiros. Dentro desse contexto, as *Finanças 
-Quantitativas (Quantitative Finance)* surgem para reduzir o risco comportamental 
-dos seres humanos e utilizar métodos científicos *(Modelagem Estatística, 
-Time Series, Machine Learning, Pattern Recognition, etc.)* para tomada de 
+de compra e venda de ativos financeiros. Dentro desse contexto, as Finanças 
+Quantitativas (Quantitative Finance) surgem para reduzir o risco comportamental 
+dos seres humanos e utilizar métodos científicos (Modelagem Estatística, 
+Time Series, Machine Learning, Pattern Recognition, etc.) para tomada de 
 decisão. A pesquisa tem como objetivo utilizar essas técnicas para a realização 
 de trades e desenvolver estratégias de gerenciamento de risco.</p>
 
