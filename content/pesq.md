@@ -2,8 +2,6 @@
 title = "Pesquisas"
 +++
 
-# Lista de todos os projetos individuais dos integrantes do PET Estatística
-
 ### Análise Comportamental de Ovelhas Submetidas a Intervenção Humana Usando GAMLSS
 
 **Autor:** Lineu Alberto Cavazani de Freitas
@@ -47,6 +45,21 @@ baseados na distribuição multinomial são ajustados pelo método da máxima
 verossimilhança e a avaliação de características relevantes é feita pelo 
 teste de razão de verossimilhanças.</p>
 
+### Nonlinear Regression Models Catologue
+
+**Autores:** Augusto Buzzoni Calcanhoto e Willian Henrique de Paula Ramos
+
+**Orientador:** Walmes Marques Zeviani
+
+<p align="justify">O projeto tem por objetivo contruir uma inteface shiny 
+contendo diversos modelos de regressão não linear. Cada modelo terá sua 
+própria aba e nela os usuários poderão escolher a parametrização desejada 
+e também manipular a curva através de um painel de controle dos parametros. 
+Além disso haverá uma página contendo a documentação dos modelos explicando 
+como utilizá-los e uma breve descrição histórica do mesmo, também terá uma 
+simulação do modelo para mostrar uma aplicação prática. Ao final do projeto, 
+o aplicativo shiny será estruturado no formato de pacote R e submetido ao CRAN.</p>
+
 ### Projeto de Extensão Areião das Águas
 
 **Petiano:** Jayme Gomes dos Santos Junior
@@ -64,6 +77,23 @@ científicos que fomentem a discussão a respeito da preservação dos rios e
 a revitalização do rio areiãozinho e através da transmissão de conhecimento 
 em relação a preservação do rio tanto para moradores quanto autoridades 
 é possível o convívio sustentável no entorno do rio areiãozinho.</p>
+
+### Métodos Quantitativos Aplicados a Análise de Investimentos
+
+**Autor:** João Matheus Slujala Kruger Taborda Hneda
+
+**Orientador:** José Luiz Padilha da Silva
+
+<p align="justify">Atualmente uma grande porcentagem dos investidores do 
+mercado financeiro toma decisões baseadas em análises técnicas e gráficas. 
+Entretanto, o fator comportamental e emocional dos indivíduos e a existência 
+de diferentes opiniões entre analistas técnicos interfere na tomada de decisão 
+de compra e venda de ativos financeiros. Dentro desse contexto, as *Finanças 
+Quantitativas (Quantitative Finance)* surgem para reduzir o risco comportamental 
+dos seres humanos e utilizar métodos científicos *(Modelagem Estatística, 
+Time Series, Machine Learning, Pattern Recognition, etc.)* para tomada de 
+decisão. A pesquisa tem como objetivo utilizar essas técnicas para a realização 
+de trades e desenvolver estratégias de gerenciamento de risco.</p>
 
 ### Efeito do Amidarona em Pacientes com Doença de Chagas
 

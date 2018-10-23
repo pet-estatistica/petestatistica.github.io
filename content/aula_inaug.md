@@ -2,7 +2,7 @@
 title = "Aulas Inaugurais"
 +++
 
-# Aulas inaugurais para os calouros de Estatística
+# Aulas Inaugurais para os Calouros de Estatística
 
 <p align="justify">Passar no vestibular e ingressar em Universidade pública 
  e concorrida como a UFPR é uma grande conquista e uma fase de muitas mudanças.</p> 
