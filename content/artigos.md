@@ -1,5 +1,5 @@
 +++
-title = "Leitura e Discução de Artigos"
+title = "Leitura e Discussão de Artigos"
 +++
 
 # Relação de Artigos Discutidos
