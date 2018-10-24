@@ -97,6 +97,23 @@ Time Series, Machine Learning, Pattern Recognition, etc.) para tomada de
 decisão. A pesquisa tem como objetivo utilizar essas técnicas para a realização 
 de trades e desenvolver estratégias de gerenciamento de risco.</p>
 
+### Estatística Aplicada a Acidentes de Trânsito
+
+**Autor:** Marcelo José Martins Júnior
+
+**Orientador:** Prof. Dr. Paulo Afonso Bracarense Costa
+
+<p align="justify">Atualmente no Brasil mais de 700 mil veículos foram fabricados 
+só no primeiro trimestre de 2018, visto que no dia a dia verificamos muitas 
+imprudências no trânsito como, beber e dirigir, uso de telefone enquanto 
+se dirige, entre outros.</p>
+
+<p align="justify">Minha pesquisa se baseia em indicar qual setor de Curitiba 
+e região metropolitana possui maior responsabilidade na concentração de 
+acidentes de trânsito, com o auxílio da estatística geoespacial, será criado 
+um novo modelo estatístico com o intuito de indicar aos órgãos competentes, 
+qual medida preventiva dever ser criada naquele setor.</p>
+
 ### Efeito do Amidarona em Pacientes com Doença de Chagas
 
 **Petiano:** Nivea S. Zamaro

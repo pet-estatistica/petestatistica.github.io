@@ -2,9 +2,7 @@ name: "Minicurso R"
 image: "../img/projects/curso_r.jpg"
 url: ../minicurso_r/
 description: >
- <p align="justify">O PSE (processo seletivo estendido) é a terceira fase 
- do vestibular para o aluno que se aplica para o Curso de Estatística. 
- Historicamente, nunca foram preenchidas as 66 vagas disponíveis para o 
- Curso de Estatística. Visto isso surgiu o Stats Up que é um projeto com 
- o intuito de criar materiais e dar aulas de reforço para os alunos do 
- PSE.</p>
+ <p align="justify">O minicurso tem por objetivo oferecer aulas para alunos 
+ de diversos cursos com interesse de aprender sobre o R, apresentando conceitos 
+ básicos da linguagem como objetos e classes, seleção condicional, importação 
+ e análise explanatória de dados.</p>
