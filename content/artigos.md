@@ -12,7 +12,7 @@ title = "Leitura e Discussão de Artigos"
         
         . Ilka Afonso Reis, Depto. Estatística UFMG
         
-   - [O ENSINO DA ESTATÍSTICA E DA PROBABILIDADE NA EDUCAÇÃO BÁSICA E A FORMAÇÃO DOS PROFESSORES](http://www.scielo.br/pdf/ccedes/v28n74/v28n74a05.pdf) 
+   - [O Ensino da Estatística e da Probabilidade na Educação Básica e a Formação dos Professores](http://www.scielo.br/pdf/ccedes/v28n74/v28n74a05.pdf) 
         
         . Celi Espasandin Lopes 
         
