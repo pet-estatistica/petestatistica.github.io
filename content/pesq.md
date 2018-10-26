@@ -114,6 +114,20 @@ acidentes de trânsito, com o auxílio da estatística geoespacial, será criado
 um novo modelo estatístico com o intuito de indicar aos órgãos competentes, 
 qual medida preventiva dever ser criada naquele setor.</p>
 
+### Estudo de “Outliers” e Valores Atípicos com o Aprendizado de Máquina.
+**Autor:**Altamiro Antonio Basiewics
+
+**Orientador:**Prof. Eduardo Ferreira
+
+<p align="justify">Meu trabalho na Pesquisa Individual visa estudar os chamados 
+“outliers” ou valores atípicos, com auxílio das ferramentas da Estatística 
+e Aprendizado de Máquina.Os “outliers” podem trazer informações importantes 
+sobre o fenômeno estudado.  Meu foco é no aprendizado  semi-supervisionado 
+e modelos mistura, quais tem mostrado bons resultados neste trabalho.O estudo 
+dos valores atípicos tem aplicações nas mais diversas áreas da Engenharia, 
+Biológicas,Humanas e afins.Por exemplo na previsão de avarias em equipamentos, 
+nas transações de crédito nos bancos, fraudes,doenças genéticas, etc.</p>
+
 ### Efeito do Amidarona em Pacientes com Doença de Chagas
 
 **Petiano:** Nivea S. Zamaro

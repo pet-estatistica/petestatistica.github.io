@@ -225,6 +225,7 @@ _____________________________________</div></em></h3>
 <h4 class="author"><em><div style="white-space: pre-line;">Lineu Alberto Cavazani de Freitas
 Nilton da Silva Reis Filho
 Willian Henrique de Paula Ramos
+João Matheus S. K. T. Hneda
 _____________________________________</div></em></h4>
 
 </div>
@@ -244,9 +245,14 @@ _____________________________________</div></em></h4>
 <div id="a-funcao-setwd." class="section level1">
 <h1><span class="header-section-number">2</span> A Função <code>setwd</code>.</h1>
 <ul>
-<li><p>Abre o diretório em que estão os arquivos necessários para serem trabalhados.</p></li>
+<li><p>Seleciona o diretório em que estão os arquivos necessários para serem trabalhados.</p></li>
 <li><p>Facilita a importação dos dados.</p></li>
-<li><p>Usar o comando <strong>setwd(“~/Nome do diretório”)</strong>, ou ir em Session -&gt; Set Working Directory -&gt; Chosse Directory -&gt; e escolha o diretório.</p></li>
+<li>Para selecionar o diretório, utilize uma das opções abaixo:
+<ul>
+<li>Usar o comando <strong>setwd(“~/Nome do diretório”)</strong> ou</li>
+<li>Ir em Session -&gt; Set Working Directory -&gt; Choose Directory -&gt; e escolha o diretório ou</li>
+<li>Utilizar o atalho <strong>Ctrl+Shift+H</strong> e selecionar o diretório.</li>
+</ul></li>
 </ul>
 <hr />
 </div>
@@ -305,55 +311,61 @@ _____________________________________</div></em></h4>
 <pre class="r"><code>x &lt;- c(1,2,3,4,5,6,7,8)
 y &lt;- seq(1:20)
 z &lt;- rep(&quot;a&quot;, 20)
-t &lt;- runif(12, 3, 4)
-x</code></pre>
+t &lt;- runif(12, 3, 4)</code></pre>
+<p>Sequência de números inteiros de 1 a 8</p>
+<pre class="r"><code>x</code></pre>
 <pre><code>## [1] 1 2 3 4 5 6 7 8</code></pre>
-<pre class="r"><code>y</code></pre>
+<p>Sequência de números inteiros de 1 a 20</p>
+<pre class="r"><code>y </code></pre>
 <pre><code>##  [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20</code></pre>
-<pre class="r"><code>z</code></pre>
+<p>Letra ‘a’ repetida 20 vezes</p>
+<pre class="r"><code>z </code></pre>
 <pre><code>##  [1] &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot;
 ## [18] &quot;a&quot; &quot;a&quot; &quot;a&quot;</code></pre>
-<pre class="r"><code>t</code></pre>
-<pre><code>##  [1] 3.008846 3.391847 3.012446 3.087025 3.041067 3.921293 3.861358
-##  [8] 3.333467 3.439728 3.962248 3.639956 3.128482</code></pre>
+<p>Geração de 12 números aleatórios da distribuição uniforme de probabilidade no intervalo [3,4]</p>
+<pre class="r"><code>t </code></pre>
+<pre><code>##  [1] 3.057833 3.602260 3.155815 3.289124 3.020876 3.431231 3.877524
+##  [8] 3.389077 3.996924 3.329390 3.273500 3.342575</code></pre>
 <ul>
 <li>No R existem cinco classes para vetores:
 <ul>
 <li>Character</li>
-<li>interger</li>
-<li>logical</li>
 <li>Numeric</li>
+<li>Integer</li>
+<li>Logical</li>
 <li>Complex</li>
 </ul></li>
 </ul>
-<pre class="r"><code>Character &lt;- c (&quot;a&quot;, &quot;b&quot;, &quot;c&quot;)
-class(Character)</code></pre>
+<pre class="r"><code>character &lt;- c (&quot;a&quot;, &quot;b&quot;, &quot;c&quot;)
+class(character) # Exibe a classe do vetor 'character'</code></pre>
 <pre><code>## [1] &quot;character&quot;</code></pre>
-<pre class="r"><code>numerico &lt;- seq(32:39)
-class(numerico)</code></pre>
+<pre class="r"><code>numerico &lt;- c(1,2,3)
+class(numerico) # Exibe a classe do vetor 'numerico' </code></pre>
+<pre><code>## [1] &quot;numeric&quot;</code></pre>
+<pre class="r"><code>inteiro &lt;- c(1L, 2L, 3L)
+class(inteiro) # Exibe a classe do vetor 'inteiro'</code></pre>
 <pre><code>## [1] &quot;integer&quot;</code></pre>
 <pre class="r"><code>logica &lt;- c(TRUE, FALSE, TRUE)
-class(logica)</code></pre>
+class(logica) # Exibe a classe do vetor 'logica'</code></pre>
 <pre><code>## [1] &quot;logical&quot;</code></pre>
-<pre class="r"><code>inteiro &lt;- c(1L, 2L, 3L)
-class(inteiro)</code></pre>
-<pre><code>## [1] &quot;integer&quot;</code></pre>
+<pre class="r"><code>complexo &lt;- c(1+3i, 2+4i)
+class(complexo) # Exibe a classe do vetor 'complexo'</code></pre>
+<pre><code>## [1] &quot;complex&quot;</code></pre>
 <ul>
 <li>OBS: Um mesmo vetor pode conter apenas elementos da mesma classe.</li>
 </ul>
-<pre class="r"><code>charanum &lt;- c(rep(&quot;a&quot;, 5), seq(1:5))#Transforma os números em caracteres
+<pre class="r"><code>charanum &lt;- c(rep(&quot;a&quot;, 5), seq(1:5)) # Transforma os números em caracteres
 charanum</code></pre>
 <pre><code>##  [1] &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;1&quot; &quot;2&quot; &quot;3&quot; &quot;4&quot; &quot;5&quot;</code></pre>
 <ul>
 <li>É possível “forçar” um vetor a mudar de classe com alguns comandos.</li>
 </ul>
-<pre class="r"><code>as.integer(numerico)## Tranformação  para classe númerica</code></pre>
-<pre><code>## [1] 1 2 3 4 5 6 7 8</code></pre>
-<pre class="r"><code>as.character(numerico)##------------------ classe character</code></pre>
-<pre><code>## [1] &quot;1&quot; &quot;2&quot; &quot;3&quot; &quot;4&quot; &quot;5&quot; &quot;6&quot; &quot;7&quot; &quot;8&quot;</code></pre>
-<pre class="r"><code>as.logical(inteiro)##--------------------- classe logical</code></pre>
+<pre class="r"><code>as.integer(numerico) ## Transforma a classe 'numeric' em 'integer'</code></pre>
+<pre><code>## [1] 1 2 3</code></pre>
+<pre class="r"><code>as.character(numerico) ## Transforma a classe 'numeric' em 'character'</code></pre>
+<pre><code>## [1] &quot;1&quot; &quot;2&quot; &quot;3&quot;</code></pre>
+<pre class="r"><code>as.logical(inteiro) ## Transforma a classe 'integer' em 'logical'</code></pre>
 <pre><code>## [1] TRUE TRUE TRUE</code></pre>
-<pre class="r"><code>## O mesmo para os outros.</code></pre>
 <hr />
 </div>
 <div id="algumas-funcoes" class="section level1">
@@ -364,15 +376,15 @@ charanum</code></pre>
 <ul>
 <li>runif(quantidade de números, número mínimo, número máximo)</li>
 </ul>
-<pre class="r"><code>runif(n= 10, min = 5, max= 8)</code></pre>
-<pre><code>##  [1] 5.917196 7.156502 6.876112 7.065636 6.378438 7.567321 6.859909
-##  [8] 6.173399 5.689510 5.073105</code></pre>
-<pre class="r"><code>runif(10, 5 , 8) ## se ordenado, não é necessário nomear</code></pre>
-<pre><code>##  [1] 7.234618 6.083553 7.905304 7.873938 5.580966 5.930507 7.048802
-##  [8] 7.486166 6.150515 5.281202</code></pre>
-<pre class="r"><code>runif(8, n= 10, min= 5) ## também funciona</code></pre>
-<pre><code>##  [1] 6.513245 6.617679 5.064686 7.871177 5.581147 5.796671 6.393120
-##  [8] 5.691871 6.210318 5.334545</code></pre>
+<pre class="r"><code>runif(n= 10, min = 5, max= 8) # Geração de 10 números aleatórios da distribuição uniforme de probabilidade no intervalo [5,8] </code></pre>
+<pre><code>##  [1] 7.460861 5.908680 7.266937 5.594205 5.314490 7.977185 7.427804
+##  [8] 5.848979 6.389169 5.191438</code></pre>
+<pre class="r"><code>runif(10, 5 , 8) ## Se ordenado, não é necessário nomear</code></pre>
+<pre><code>##  [1] 7.431716 6.977663 7.279631 5.033652 5.759149 7.086464 7.345305
+##  [8] 6.871012 5.283093 5.078223</code></pre>
+<pre class="r"><code>runif(8, n= 10, min= 5) ## Se mudar a ordem, é necessário especificar os argumentos</code></pre>
+<pre><code>##  [1] 5.509023 5.629108 5.753583 5.022719 7.429412 7.837095 5.032406
+##  [8] 6.180044 7.652689 7.959781</code></pre>
 <hr />
 </div>
 <div id="criando-uma-sequencia-de-numeros-e-repeticoes." class="section level2">
@@ -381,19 +393,19 @@ charanum</code></pre>
 <li><p>Pra criar uma sequência de números use a função <strong>seq()</strong></p></li>
 <li><p>Use o a função <strong>rep()</strong> para gerar uma repetição pré estabelecida de números, caracteres, argumentos lógicos, entre outros.</p></li>
 </ul>
-<pre class="r"><code>seq(1:20)</code></pre>
+<pre class="r"><code>seq(1:20) # Sequência de números inteiros de 1 a 20</code></pre>
 <pre><code>##  [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20</code></pre>
-<pre class="r"><code>seq(-30,30)</code></pre>
+<pre class="r"><code>seq(-30,30) # Sequência de números inteiros de -30 a 30</code></pre>
 <pre><code>##  [1] -30 -29 -28 -27 -26 -25 -24 -23 -22 -21 -20 -19 -18 -17 -16 -15 -14
 ## [18] -13 -12 -11 -10  -9  -8  -7  -6  -5  -4  -3  -2  -1   0   1   2   3
 ## [35]   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20
 ## [52]  21  22  23  24  25  26  27  28  29  30</code></pre>
-<pre class="r"><code>seq(-30,30, by= 2)</code></pre>
+<pre class="r"><code>seq(-30,30, by= 2) # Sequência de números inteiros de -30 a 30 com variação de 2 unidades</code></pre>
 <pre><code>##  [1] -30 -28 -26 -24 -22 -20 -18 -16 -14 -12 -10  -8  -6  -4  -2   0   2
 ## [18]   4   6   8  10  12  14  16  18  20  22  24  26  28  30</code></pre>
-<pre class="r"><code>rep(TRUE, 14)</code></pre>
+<pre class="r"><code>rep(TRUE, 14) # Argumento lógico 'TRUE' repetido 14 vezes</code></pre>
 <pre><code>##  [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE</code></pre>
-<pre class="r"><code>rep(&quot;a&quot;, 6)</code></pre>
+<pre class="r"><code>rep(&quot;a&quot;, 6) # Letra 'a' repetida 6 vezes</code></pre>
 <pre><code>## [1] &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot; &quot;a&quot;</code></pre>
 <pre class="r"><code>rep(1:4, each= 2, len= 4)</code></pre>
 <pre><code>## [1] 1 1 2 2</code></pre>
@@ -459,11 +471,11 @@ soma(2,3)</code></pre>
 </div>
 <div id="valores-perdidos-nas" class="section level1">
 <h1><span class="header-section-number">8</span> Valores perdidos NA´S</h1>
-<p>Para valores perdidos, nomeamos como NA, e existem algumas forma de encontrarmos esse valores.</p>
-<pre class="r"><code>qqwer &lt;- c (3, 4 , rep(NA, 3))
+<p>Para valores perdidos, nomeamos como NA, e existem algumas formas de encontrarmos esse valores.</p>
+<pre class="r"><code>qqwer &lt;- c (3, 4 , rep(NA, 3)) ## Criação de um vetor com números e valores perdidos
 qqwer</code></pre>
 <pre><code>## [1]  3  4 NA NA NA</code></pre>
-<pre class="r"><code>is.na(qqwer)## Mostra onde estão os na´s no seu objeto</code></pre>
+<pre class="r"><code>is.na(qqwer) ## Mostra onde estão os NA´s no seu objeto</code></pre>
 <pre><code>## [1] FALSE FALSE  TRUE  TRUE  TRUE</code></pre>
 <pre class="r"><code>any(is.na(qqwer)) ## Retorna se há ao menos um NA no objeto</code></pre>
 <pre><code>## [1] TRUE</code></pre>
@@ -490,6 +502,7 @@ qqwer</code></pre>
 <hr />
 <div id="criando-uma-matriz" class="section level2">
 <h2><span class="header-section-number">9.1</span> Criando uma matriz</h2>
+<p><strong>Preenchimento por colunas</strong></p>
 <pre class="r"><code>matriz &lt;- matrix(1:4, nrow= 2, ncol= 2) ## matriz númerica
 matriz</code></pre>
 <pre><code>##      [,1] [,2]
@@ -501,8 +514,8 @@ matriz2</code></pre>
 <pre><code>##      [,1] [,2]
 ## [1,] &quot;a&quot;  &quot;b&quot; 
 ## [2,] &quot;a&quot;  &quot;b&quot;</code></pre>
-<p>Preenchimento pode ser feito por linhas também</p>
-<pre class="r"><code>matriz &lt;- matrix(1:4, nrow= 2, ncol= 2, byrow = TRUE) 
+<p><strong>Preenchimento por linhas</strong></p>
+<pre class="r"><code>matriz &lt;- matrix(1:4, nrow= 2, ncol= 2, byrow = TRUE)
 matriz</code></pre>
 <pre><code>##      [,1] [,2]
 ## [1,]    1    2
@@ -533,15 +546,15 @@ matriz2</code></pre>
 ## [1,] &quot;a&quot;  &quot;a&quot;  &quot;c&quot; 
 ## [2,] &quot;b&quot;  &quot;b&quot;  &quot;d&quot;</code></pre>
 <p>É possível transformar um vetor em uma matriz</p>
-<pre class="r"><code>vetor &lt;- c(1,2,3,4)
-dim(vetor) &lt;- c(2,2)
+<pre class="r"><code>vetor &lt;- c(1,2,3,4) ## Criação de um vetor com números
+dim(vetor) &lt;- c(2,2) ## Alterar a dimensão do vetor
 vetor</code></pre>
 <pre><code>##      [,1] [,2]
 ## [1,]    1    3
 ## [2,]    2    4</code></pre>
-<pre class="r"><code>class(vetor)</code></pre>
+<pre class="r"><code>class(vetor) ## Exibe a classe do vetor</code></pre>
 <pre><code>## [1] &quot;matrix&quot;</code></pre>
-<p>OBS: Operações matemática com matrizes são possíveis e seguem as mesmas regras.</p>
+<p>OBS: Operações matemáticas com matrizes são possíveis e seguem as mesmas regras.</p>
 <pre class="r"><code>matriz * matriz</code></pre>
 <pre><code>##      [,1] [,2]
 ## [1,]    1    4
@@ -550,6 +563,10 @@ vetor</code></pre>
 <pre><code>##      [,1] [,2]
 ## [1,]    2    4
 ## [2,]    6    8</code></pre>
+<pre class="r"><code>matriz %*% matriz</code></pre>
+<pre><code>##      [,1] [,2]
+## [1,]    7   10
+## [2,]   15   22</code></pre>
 <hr />
 </div>
 <div id="nomeando-as-linhas-e-colunas-da-matriz" class="section level2">
@@ -577,8 +594,8 @@ matriz2</code></pre>
 <hr />
 <div id="criando-listas" class="section level2">
 <h2><span class="header-section-number">10.1</span> Criando listas</h2>
-<pre class="r"><code>lista &lt;- list(Brasil= c(&quot;verde&quot;, &quot;amarelo&quot;), Números= c(1:10), Lógico= c(TRUE, FALSE, FALSE))
-lista</code></pre>
+<pre class="r"><code>lista &lt;- list(Brasil= c(&quot;verde&quot;, &quot;amarelo&quot;), Números= c(1:10), Lógico= c(TRUE, FALSE, FALSE)) ## Criação de uma lista
+lista ## Exibe a lista</code></pre>
 <pre><code>## $Brasil
 ## [1] &quot;verde&quot;   &quot;amarelo&quot;
 ## 
@@ -587,11 +604,11 @@ lista</code></pre>
 ## 
 ## $Lógico
 ## [1]  TRUE FALSE FALSE</code></pre>
-<pre class="r"><code>class(lista)</code></pre>
+<pre class="r"><code>class(lista) ## Exibe a classe da lista</code></pre>
 <pre><code>## [1] &quot;list&quot;</code></pre>
-<pre class="r"><code>length(lista)</code></pre>
+<pre class="r"><code>length(lista) ## Exibe o comprimento da lista</code></pre>
 <pre><code>## [1] 3</code></pre>
-<pre class="r"><code>str(lista)## Mostra toda a documentação do vetor(IMPORTANTE)</code></pre>
+<pre class="r"><code>str(lista) ## Mostra toda a documentação da lista (IMPORTANTE)</code></pre>
 <pre><code>## List of 3
 ##  $ Brasil : chr [1:2] &quot;verde&quot; &quot;amarelo&quot;
 ##  $ Números: int [1:10] 1 2 3 4 5 6 7 8 9 10
@@ -627,7 +644,7 @@ lista</code></pre>
 <h2><span class="header-section-number">11.1</span> Criando um Data Frame</h2>
 <pre class="r"><code>dataframe &lt;- data.frame(Números= c(32:41),
                         Sexo= c(rep(&quot;Homem&quot;, 5), rep(&quot;Mulher&quot;, 5)))
-dataframe</code></pre>
+dataframe ## Exibe o dataframe</code></pre>
 <pre><code>##    Números   Sexo
 ## 1       32  Homem
 ## 2       33  Homem
@@ -639,9 +656,9 @@ dataframe</code></pre>
 ## 8       39 Mulher
 ## 9       40 Mulher
 ## 10      41 Mulher</code></pre>
-<pre class="r"><code>class(dataframe)</code></pre>
+<pre class="r"><code>class(dataframe) ## Exibe a classe do dataframe</code></pre>
 <pre><code>## [1] &quot;data.frame&quot;</code></pre>
-<pre class="r"><code>str(dataframe)</code></pre>
+<pre class="r"><code>str(dataframe) ## Exibe a estrutura do dataframe</code></pre>
 <pre><code>## 'data.frame':    10 obs. of  2 variables:
 ##  $ Números: int  32 33 34 35 36 37 38 39 40 41
 ##  $ Sexo   : Factor w/ 2 levels &quot;Homem&quot;,&quot;Mulher&quot;: 1 1 1 1 1 2 2 2 2 2</code></pre>
@@ -649,7 +666,7 @@ dataframe</code></pre>
 <li>Vamos adicionar uma nova coluna</li>
 </ul>
 <pre class="r"><code>dataframe$logica &lt;- rep(TRUE, 10)
-dataframe</code></pre>
+dataframe ## Exibe o dataframe com mais uma coluna</code></pre>
 <pre><code>##    Números   Sexo logica
 ## 1       32  Homem   TRUE
 ## 2       33  Homem   TRUE
@@ -666,35 +683,35 @@ dataframe</code></pre>
 <div id="nomenado-linhas-e-colunas" class="section level2">
 <h2><span class="header-section-number">11.2</span> Nomenado linhas e colunas</h2>
 <ul>
-<li>É possivel como visto acima, nomear as colunas dentro da prória função, mas se for necessário alterar o nome basta usar o argumento names()</li>
-<li>Para nomear uma linha de um data frame, utilizamos row.names()</li>
+<li>É possivel como visto acima, nomear as colunas dentro da prória função, mas se for necessário alterar o nome basta usar o argumento colnames()</li>
+<li>Para nomear uma linha de um data frame, utilizamos rownames()</li>
 </ul>
-<pre class="r"><code>row.names(dataframe) &lt;- seq(1:10)
+<pre class="r"><code>rownames(dataframe) &lt;- paste0(&quot;linha&quot;,1:10) # Altera o nome das linhas do dataframe
 dataframe</code></pre>
-<pre><code>##    Números   Sexo logica
-## 1       32  Homem   TRUE
-## 2       33  Homem   TRUE
-## 3       34  Homem   TRUE
-## 4       35  Homem   TRUE
-## 5       36  Homem   TRUE
-## 6       37 Mulher   TRUE
-## 7       38 Mulher   TRUE
-## 8       39 Mulher   TRUE
-## 9       40 Mulher   TRUE
-## 10      41 Mulher   TRUE</code></pre>
-<pre class="r"><code>names(dataframe) &lt;- c(&quot;Números2&quot;, &quot;Sexo2&quot;, &quot;logica2&quot;)
+<pre><code>##         Números   Sexo logica
+## linha1       32  Homem   TRUE
+## linha2       33  Homem   TRUE
+## linha3       34  Homem   TRUE
+## linha4       35  Homem   TRUE
+## linha5       36  Homem   TRUE
+## linha6       37 Mulher   TRUE
+## linha7       38 Mulher   TRUE
+## linha8       39 Mulher   TRUE
+## linha9       40 Mulher   TRUE
+## linha10      41 Mulher   TRUE</code></pre>
+<pre class="r"><code>colnames(dataframe) &lt;- c(&quot;Números2&quot;, &quot;Sexo2&quot;, &quot;logica2&quot;) # Altera o nome das colunas do dataframe
 dataframe</code></pre>
-<pre><code>##    Números2  Sexo2 logica2
-## 1        32  Homem    TRUE
-## 2        33  Homem    TRUE
-## 3        34  Homem    TRUE
-## 4        35  Homem    TRUE
-## 5        36  Homem    TRUE
-## 6        37 Mulher    TRUE
-## 7        38 Mulher    TRUE
-## 8        39 Mulher    TRUE
-## 9        40 Mulher    TRUE
-## 10       41 Mulher    TRUE</code></pre>
+<pre><code>##         Números2  Sexo2 logica2
+## linha1        32  Homem    TRUE
+## linha2        33  Homem    TRUE
+## linha3        34  Homem    TRUE
+## linha4        35  Homem    TRUE
+## linha5        36  Homem    TRUE
+## linha6        37 Mulher    TRUE
+## linha7        38 Mulher    TRUE
+## linha8        39 Mulher    TRUE
+## linha9        40 Mulher    TRUE
+## linha10       41 Mulher    TRUE</code></pre>
 <hr />
 </div>
 </div>

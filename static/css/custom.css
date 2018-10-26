@@ -20,6 +20,15 @@ ul.people > li {
     letter-spacing: 0.08em;
     text-align: center;
 }
+.home-carousel {
+    position: relative;
+    background: url('../img/background_math.jpg') center center repeat;
+        background-size: auto auto;
+    background-size: cover;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
 /*---------------------------------------------------------------------- */
 
 img.projects {

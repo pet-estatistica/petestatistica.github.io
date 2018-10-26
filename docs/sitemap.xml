@@ -117,6 +117,10 @@
   </url>
   
   <url>
+    <loc>https://pet-estatistica.github.io/site/curso/</loc>
+  </url>
+  
+  <url>
     <loc>https://pet-estatistica.github.io/site/faq/</loc>
   </url>
   
@@ -170,10 +174,6 @@
     <loc>https://pet-estatistica.github.io/site/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pet-estatistica.github.io/site/vagas/</loc>
   </url>
   
 </urlset>

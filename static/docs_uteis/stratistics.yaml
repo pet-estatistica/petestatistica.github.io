@@ -1,0 +1,7 @@
+name: "Estratégias para Análise de Dados com Característica Não Linear"
+#image: "../img/projects/ico-posts.jpg"
+url: ../stratistics/
+description: >
+ <p align="justify">Projeto com o objetivo de apresentar estratégias para
+ análise de dados com característica não linear através de uma aplicação
+ em shiny.</p>

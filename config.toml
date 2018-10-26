@@ -34,38 +34,22 @@ paginate = 10
       name = "Eventos"
       url  = "/eventos/"
       weight = 1
-
-  [[menu.main]]
-      parent = "Mural"
-      name = "Vagas"
-      url  = "/vagas/"
-      weight = 2
   
   [[menu.main]]
       parent = "Mural"
       name = "Editais"
       url  = "/editais/"
-      weight = 3
+      weight = 2
       
 [[menu.main]]
     name = "Projetos"
     url  = "/project/"
-    weight = 4
-
-[[menu.main]]
-    name = "O PET"
     weight = 2
 
-   [[menu.main]]
-       parent = "O PET"
+[[menu.main]]
        name = "Integrantes"
        url  = "/people/"
-       weight = 1
-
-   [[menu.main]]
-       parent = "O PET"
-       name = "Sobre"
-       weight = 2
+       weight = 4
 
 [[menu.main]]
     name = "Contato"
