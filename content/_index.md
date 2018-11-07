@@ -4,7 +4,8 @@
 background-color: #e9c8c1; border-color: #cb703f;">
 <center>
 
-SITE EM DESENVOLVIMENTO.</br>
+CAMPANHA DE ARRECADAÇÃO.</br>
+<a href="../site/arrecadacao/">DOE VOCÊ TAMBÉM!!</a>
 
 </center>
 </div>
