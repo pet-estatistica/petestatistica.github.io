@@ -1,11 +1,15 @@
-# weight:  data q entrou no pet(ano.mês) ex: 201409
-name: "walmes"
-image: "../img/ice_background.jpg"
-url: "https://www.google.com"
-email: "https://www.google.com"
-lattes: "https://www.google.com"
-linkedin: "https://www.google.com"
-mendeley: "https://www.google.com"
+weight: 201510
+name: "Walmes M. Zeviani"
+image: "http://www.leg.ufpr.br/~walmes/home/img/walmes-03.jpg"
+url: "http://www.leg.ufpr.br/~walmes"
+email: "walmes@ufpr.br"
+lattes: "http://lattes.cnpq.br/4410617539281650"
+linkedin: "https://www.linkedin.com/in/walmes-marques-zeviani-41b8b650/"
+mendeley: "https://www.mendeley.com/profiles/walmes-zeviani1/"
 description: >
-  enfowrjdbnowrbgowrnbvojwnbojwbnowbmfs
+  <p align="justify">Professor no Departamento de Estatística desde 2010, 
+  tutor do PET Estatística (2015 - Atual). Tem experiência em planejamento 
+  de experimentos, modelos de regressão não linear e programação em R. Mestre 
+  e Doutor em Estatística e Experimentação Agropecuária (UFLA) com Bacharel 
+  em Agronomia (UFGD).</p>
  
