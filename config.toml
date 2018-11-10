@@ -4,6 +4,7 @@ theme = "hugo-universal-theme"
 themesDir = "./themes/"
 publishDir = "docs"
 languageCode = "en-US"
+
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "pt-br"
 # Enable comments by entering your Disqus shortname

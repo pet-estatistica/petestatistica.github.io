@@ -27,9 +27,9 @@ da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
 
 
 
-Aula 1: 20/10 - Comandos básicos, objetos e classes.
-Aula 2: 10/11 - Indexação e seleção condicional.
-Aula 3: 24/11 - Entrada e saída de dados e análise explanatória.
+Aula 1: 20<em>/</em>10 - Comandos básicos, objetos e classes.
+Aula 2: 10<em>/</em>11 - Indexação e seleção condicional.
+Aula 3: 24<em>/</em>11 - Entrada e saída de dados e análise explanatória.
 
 **As aulas acontecerão no horário de 10 h até 12 h.**
 
@@ -40,15 +40,16 @@ Materiais que serão utilizados nas aulas:
 **Aula 1**
 
  - [Visão Geral](../download/mcr_aula1_visaogeral.pdf)
- - [Resumo aula 1](../download/mcr_aula1_resumo.html)
+ - [Resumo da Aula](../download/mcr_aula1_resumo.html)
  - [Script](../download/mcr_aula1_script.R)
  - [Exercícios](../download/mcr_aula1_exercicios.html) <!-- - [gabarito]() -->
 
-<!-- **Aula 2** -->
+**Aula 2** 
 
- <!-- - [Resumo aula 2]() -->
- <!-- - [script]() -->
- <!-- - [Exercícios]() - [gabarito]() -->
+ 
+ - [Script](../download/mcr_aula2_script.R)
+ - [Exercícios](../download/mcr_aula2_exercicios.html) <!-- - [gabarito]() --> 
+<!-- - [Resumo aula 2]() -->
 
 <!-- **Aula 3** -->
 
