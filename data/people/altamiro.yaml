@@ -1,11 +1,15 @@
-# weight:  data q entrou no pet(ano.mês) ex: 201409
-name: "altamiro"
-image: "../img/ice_background.jpg"
+weight: 201511
+name: "Altamiro Antonio Basiewics"
+image: "../img/people/altamiro.jpg"
 url: "https://www.google.com"
-email: "https://www.google.com"
-lattes: "https://www.google.com"
-linkedin: "https://www.google.com"
-mendeley: "https://www.google.com"
+email: "abasiewics@bol.com.br"
+lattes: "http://lattes.cnpq.br/9469074667375957"
+linkedin: "https://www.linkedin.com/in/altamiro-antonio-basiewics-73861b92/"
+mendeley: "https://www.mendeley.com/profiles/altamiro-basiewics2/"
 description: >
-  enfowrjdbnowrbgowrnbvojwnbojwbnowbmfs
+  <p align="justify">Estudo na UFPR desde 2015 no curso de Estatística.Tenho 
+  interesse em Aprendizado de Máquina e modelagem estatística com otimização. 
+  Tenho pesquisado e estudado métodos para detecção de anomalias, que tem 
+  grandes aplicaçõesna indústria , comércio, medicina etc. Aprecio uma boa 
+  leitura de ficção e fico a maior parte do tempo na UFPR.</p>
  

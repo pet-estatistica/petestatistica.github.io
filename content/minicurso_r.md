@@ -46,11 +46,10 @@ Materiais que serão utilizados nas aulas:
 
 **Aula 2** 
 
- 
+ - [Resumo da Aula](../download/mcr_aula2_resumo.html)
  - [Script](../download/mcr_aula2_script.R)
  - [Exercícios](../download/mcr_aula2_exercicios.html) <!-- - [gabarito]() --> 
-<!-- - [Resumo aula 2]() -->
-
+  
 <!-- **Aula 3** -->
 
   <!-- - [Resumo aula 3]() -->
