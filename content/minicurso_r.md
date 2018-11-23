@@ -50,11 +50,13 @@ Materiais que serão utilizados nas aulas:
  - [Script](../download/mcr_aula2_script.R)
  - [Exercícios](../download/mcr_aula2_exercicios.html) <!-- - [gabarito]() --> 
   
-<!-- **Aula 3** -->
+**Aula 3** 
 
-  <!-- - [Resumo aula 3]() -->
-  <!-- - [script]() -->
-  <!-- - [Exercícios]() - [gabarito]() -->
+ - [Resumo da Aula](../download/mcr_aula3_resumo.html)
+ - [Script de Importação de Dados](../download/mcr_aula3_script_import.R)
+ - [Script de Anákise Exploratória](../download/mcr_aula3_script_exploratoria.R)
+ - [Mapa](../download/mapa.zip)
+ - [Exercícios](../download/mcr_aula3_exercicios.html)
 
 # Links úteis
 
