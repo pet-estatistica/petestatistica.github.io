@@ -1,3 +1,4 @@
+<!--
 <!-- alert-info, alert-warning, alert-danger -->
 
 <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #931;
@@ -9,3 +10,4 @@ CAMPANHA DE ARRECADAÇÃO.</br>
 
 </center>
 </div>
+-->

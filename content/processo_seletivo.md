@@ -20,6 +20,9 @@ time.</p>
 <p align="justify">Qualquer dúvida nos mande uma mensagem nas redes sociais 
 ou venha nos fazer uma visita.</p>
   
-Próximo processo previsto para o primeiro semestre de 2019.
+### Processo seletivo 2019<em>/</em>1.
+
+- [Edital](../download/Edital_proc_sel_2019_1.pdf)
+- [Link para inscrição](https://form.jotformz.com/90646572957673)
   
   

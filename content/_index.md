@@ -1,4 +1,14 @@
+<div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #3c763d;
+background-color: #dff0d8; border-color: #7b9c5f;">
+<center>
 
+Estão abertas as inscrições para o Processo seletivo 2019/1.</br>
+
+<a href="../download/Edital_proc_sel_2019_1.pdf">EDITAL</a></br>
+<a href="https://form.jotformz.com/90646572957673">INSCRIÇÕES</a>
+
+</center>
+</div>
  
 ## O PET
 
