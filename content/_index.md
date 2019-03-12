@@ -9,6 +9,18 @@ Estão abertas as inscrições para o Processo seletivo 2019/1.</br>
 
 </center>
 </div>
+
+<div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #931;
+background-color: #e9c8c1; border-color: #cb703f;">
+<center>
+
+Seleção de Bolsistas de Extensão: Laboratório de 
+Estatística Aplicada (LEA).</br>
+
+<a href="../site/lea">AQUI</a>
+
+</center>
+</div>
  
 ## O PET
 
