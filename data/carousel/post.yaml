@@ -1,0 +1,17 @@
+weight: 4
+title: "UFPR"
+description: >
+  <p align="justify">
+  Parte primordial de qualquer análise estatística é chamada análise 
+  descritiva ou exploratória. Trata-se de uma etapa de extrema importância 
+  e deve preceder qualquer análise mais sofisticada.
+  
+  Este post, de autoria do PETiano Lineu Alberto tem como foco explorar 
+  as principais e mais simples formas de visualização de dados utilizando 
+  o pacote R ggplot2.
+  </p>
+    
+ 
+
+
+image: "img/carousel/ggplot2.png"

@@ -28,19 +28,8 @@ paginate = 10
 
 [[menu.main]]
     name = "Mural"
+    url  = "/eventos/"
     weight = 3
-
-  [[menu.main]]
-      parent = "Mural"
-      name = "Eventos"
-      url  = "/eventos/"
-      weight = 1
-  
-  [[menu.main]]
-      parent = "Mural"
-      name = "Editais"
-      url  = "/editais/"
-      weight = 2
       
 [[menu.main]]
     name = "Projetos"

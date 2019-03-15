@@ -26,14 +26,14 @@ com Git.</p>
 
 # Metodologia
 
-<p align="justify">É organizado um rodízio cíclico de postagem dos petianos. 
-O aluno 2 corrige o texto do aluno 1, 3 corrige de 2, etc. Na próxima rodada, 
-é dado um passo e assim 3 corrige de 1, 4 corrige de 2, etc. A cada semana 
-um petiano ficará responsável pela criação da sua matéria (ou post) e outro 
-será responsável pela correção do post de um colega. O processo se repete 
-o quanto for necessário para disponibilizar conteúdo o ano todo no site do PET.</p>
+<p align="justify">Todos os petianos escrevem seus "posts", posteriormente
+é feita a leitura de todos os posts por todos os integrantes e uma reunião
+onde são apontadas as correções necessárias nos posts, após as correções
+é feito um sorteio para a ordem em que os posts serão exibidos no site do 
+PET. O processo se repete o quanto for necessário para disponibilizar 
+conteúdo o ano todo no site do PET.</p>
 
 # Lista de posts 
 
-[post-nr-autor-data](../download/postxx.pdf)   
-[post-nr-autor-data](../download/postxy.pdf)
+[15/03/19 - Primeiros Pasos com ggplot2, por Lineu Alberto](../download/postLINEU.html)   
+

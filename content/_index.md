@@ -10,6 +10,20 @@ Estão abertas as inscrições para o Processo seletivo 2019/1.</br>
 </center>
 </div>
 
+<div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #B45F04;
+background-color: #F3E2A9; border-color:#FE9A2E ;">
+<center>
+
+Novo Post</br>
+
+<a href="download/postLINEU.html">Primeiros Passos com ggplot2</a></br>
+
+Por Lineu Alberto
+
+
+</center>
+</div>
+
 <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #931;
 background-color: #e9c8c1; border-color: #cb703f;">
 <center>
