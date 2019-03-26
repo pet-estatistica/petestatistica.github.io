@@ -1,17 +1,13 @@
 weight: 4
-title: "UFPR"
+title: "O BIG DATA E A ESTATÍSTICA"
 description: >
   <p align="justify">
-  Parte primordial de qualquer análise estatística é chamada análise 
-  descritiva ou exploratória. Trata-se de uma etapa de extrema importância 
-  e deve preceder qualquer análise mais sofisticada.
-  
-  Este post, de autoria do PETiano Lineu Alberto tem como foco explorar 
-  as principais e mais simples formas de visualização de dados utilizando 
-  o pacote R ggplot2.
+  O Big Data está por aqui, então é necessário estar atualizado. 
+  Este post, de autoria do PETiano Altamiro, tem como objetivo mostrar a 
+  importância dos métodos modernos na análise de dados e modelagem.
   </p>
     
  
 
 
-image: "img/carousel/ggplot2.png"
+image: "img/carousel/big_data.png"
