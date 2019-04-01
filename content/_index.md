@@ -16,25 +16,14 @@ background-color: #F3E2A9; border-color:#FE9A2E ;">
 
 Novo Post</br>
 
-<a href="download/postALTAMIRO.html">O Big data e a Estatítstica</a></br>
+<a href="download/postWILLIAN.html">Um Breve Passeio pela História do EMV</a></br>
 
-Por Altamiro Antonio Basiewics
+Por Willian Ramos
 
-
-</center>
-</div>
-
-<div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #931;
-background-color: #e9c8c1; border-color: #cb703f;">
-<center>
-
-Seleção de Bolsistas de Extensão: Laboratório de 
-Estatística Aplicada (LEA).</br>
-
-<a href="../site/lea">AQUI</a>
 
 </center>
 </div>
+
  
 ## O PET
 

@@ -35,7 +35,8 @@ conteúdo o ano todo no site do PET.</p>
 
 # Lista de posts 
 
+[29/03/19 - Um Breve Passeio pela História do EMV, Por Willian Ramos](../download/postWILLIAN.html)   
 [26/03/19 - O Big Data e a Estatística, Por Altamiro Antonio Basiewics](../download/postALTAMIRO.html)   
-[15/03/19 - Primeiros Pasos com ggplot2, por Lineu Alberto](../download/postLINEU.html)  
+[15/03/19 - Primeiros Passos com ggplot2, por Lineu Alberto](../download/postLINEU.html)  
  
 

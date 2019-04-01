@@ -1,13 +1,14 @@
 weight: 4
-title: "O BIG DATA E A ESTATÍSTICA"
+title: "Um Breve Passeio pela História do EMV"
 description: >
   <p align="justify">
-  O Big Data está por aqui, então é necessário estar atualizado. 
-  Este post, de autoria do PETiano Altamiro, tem como objetivo mostrar a 
-  importância dos métodos modernos na análise de dados e modelagem.
+  Um dos conceitos mais importantes para a Estatística é o de 
+  Verossimilhança, esse conceito foi introduzido após séculos de discussões sobre filosofias referentes a estimadores de parametrôs de modelos estatísticos. 
+  Neste post, o PETiano Willian Ramos conta um pouco mais sobre os autores 
+  e suas idéias que antecederam Ronald Fisher.
   </p>
     
  
 
 
-image: "img/carousel/big_data.png"
+image: "img/carousel/fisher.jpg"
