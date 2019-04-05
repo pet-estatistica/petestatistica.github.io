@@ -16,9 +16,9 @@ background-color: #F3E2A9; border-color:#FE9A2E ;">
 
 Novo Post</br>
 
-<a href="download/postWILLIAN.html">Um Breve Passeio pela História do EMV</a></br>
+<a href="download/postJOAO.html">Ciência de Dados: Uma Grande Oportunidade para Estatísticos</a></br>
 
-Por Willian Ramos
+Por João Matheus S. K. T. Hneda
 
 
 </center>
