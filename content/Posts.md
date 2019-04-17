@@ -35,6 +35,7 @@ conteúdo o ano todo no site do PET.</p>
 
 # Lista de posts 
 
+[17/04/19 - Falando sobre Controle Estatístico de Processo, Por Thiago Ledur Hoeflich](../download/postTHIAGO.html)  
 [05/04/19 - Ciência de Dados: Uma Grande Oportunidade para Estatísticos, Por João Matheus S. K. T. Hneda](../download/postJOAO.html)   
 [29/03/19 - Um Breve Passeio pela História do EMV, Por Willian Ramos](../download/postWILLIAN.html)   
 [26/03/19 - O Big Data e a Estatística, Por Altamiro Antonio Basiewics](../download/postALTAMIRO.html)   
