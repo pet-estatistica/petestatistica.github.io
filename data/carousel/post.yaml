@@ -1,15 +1,13 @@
 weight: 4
-title: "Ciência de Dados: Uma Grande Oportunidade para Estatísticos"
+title: "Falando sobre Controle Estatístico de Processo"
 description: >
   <p align="justify">
-  Estatística, Big Data, Machine Learning e Ciência de Dados. Esses são 
-  alguns dos termos mais comentados quando o assunto é o mercado de 
-  trabalho da Ciência de Dados. O post, de autoria do PETiano João Matheus 
-  Hneda, tem como objetivo esclarecer esses termos, apresentar algumas 
-  definições importantes e mostrar as vantagens de um estatístico atuar 
-  como Cientista de Dados.
+  Gráficos, análises, indices, fazem parte do cotidiano do estatístico, 
+  porem fundamentais para auxiliar na tomada de decisão. Neste post, o 
+  petiano Thiago Ledur Hoeflich fala um pouco sobre o Controle Estatístico 
+  direcionado ao Processo.
   </p>   
  
 
 
-image: "img/carousel/foto.jpg"
+image: "img/carousel/grafic.png"
