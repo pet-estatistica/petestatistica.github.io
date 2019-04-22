@@ -19,7 +19,7 @@ Novo Post</br>
 
 <a href="download/postJAYME.html">Introdução a Terceira Revolução Industrial</a></br>
 
-Por Jayme Gomes dos santos Junior
+Por Jayme Gomes dos Santos Junior
 
 
 </center>
