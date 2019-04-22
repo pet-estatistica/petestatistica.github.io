@@ -35,6 +35,7 @@ conteúdo o ano todo no site do PET.</p>
 
 # Lista de posts 
 
+[22/04/19 - Introdução a Terceira Revolução Industrial, Por Jayme Gomes dos santos Junior](../download/postJAYME.html)    
 [17/04/19 - Falando sobre Controle Estatístico de Processo, Por Thiago Ledur Hoeflich](../download/postTHIAGO.html)  
 [05/04/19 - Ciência de Dados: Uma Grande Oportunidade para Estatísticos, Por João Matheus S. K. T. Hneda](../download/postJOAO.html)   
 [29/03/19 - Um Breve Passeio pela História do EMV, Por Willian Ramos](../download/postWILLIAN.html)   

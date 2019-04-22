@@ -17,9 +17,9 @@ background-color: #F3E2A9; border-color:#FE9A2E ;">
 
 Novo Post</br>
 
-<a href="download/postTHIAGO.html">Ciência de Dados: Falando sobre Controle Estatístico de Processo</a></br>
+<a href="download/postJAYME.html">Introdução a Terceira Revolução Industrial</a></br>
 
-Por Thiago Ledur Hoeflich
+Por Jayme Gomes dos santos Junior
 
 
 </center>
