@@ -26,10 +26,10 @@ paginate = 10
     url  = "/"
     weight = 1
 
-[[menu.main]]
-    name = "Mural"
-    url  = "/eventos/"
-    weight = 3
+# [[menu.main]]
+#    name = "Mural"
+#    url  = "/eventos/"
+#    weight = 3
       
 [[menu.main]]
     name = "Projetos"
@@ -39,12 +39,12 @@ paginate = 10
 [[menu.main]]
        name = "Integrantes"
        url  = "/people/"
-       weight = 4
+       weight = 3
 
 [[menu.main]]
     name = "Contato"
     url  = "/contact/"
-    weight = 5
+    weight = 4
 
 
 

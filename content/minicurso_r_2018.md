@@ -21,22 +21,22 @@ Materiais que serão utilizados nas aulas:
 
 **Aula 1**
 
- - [Visão Geral](../download/mcr_aula1_visaogeral.pdf)
- - [Resumo da Aula](../download/mcr_aula1_resumo.html)
- - [Script](../download/mcr_aula1_script.R)
- - [Exercícios](../download/mcr_aula1_exercicios.html) <!-- - [gabarito]() -->
+ - [Visão Geral](../download/minicursos/R/2018/mcr_aula1_visaogeral.pdf)
+ - [Resumo da Aula](../download/minicursos/R/2018/mcr_aula1_resumo.html)
+ - [Script](../download/minicursos/R/2018/mcr_aula1_script.R)
+ - [Exercícios](../download/minicursos/R/2018/mcr_aula1_exercicios.html) <!-- - [gabarito]() -->
 
 **Aula 2** 
 
- - [Resumo da Aula](../download/mcr_aula2_resumo.html)
- - [Script](../download/mcr_aula2_script.R)
- - [Exercícios](../download/mcr_aula2_exercicios.html) <!-- - [gabarito]() --> 
+ - [Resumo da Aula](../download/minicursos/R/2018/mcr_aula2_resumo.html)
+ - [Script](../download/minicursos/R/2018/mcr_aula2_script.R)
+ - [Exercícios](../download/minicursos/R/2018/mcr_aula2_exercicios.html) <!-- - [gabarito]() --> 
   
 **Aula 3** 
 
- - [Resumo da Aula](../download/mcr_aula3_resumo.html)
- - [Script de Importação de Dados](../download/mcr_aula3_script_import.R)
- - [Script de Análise Exploratória](../download/mcr_aula3_script_exploratoria.R)
- - [Arquivos para Importação](../download/import.zip)
- - [Mapa](../download/mapa.zip)
- - [Exercícios](../download/mcr_aula3_exercicios.html)
+ - [Resumo da Aula](../download/minicursos/R/2018/mcr_aula3_resumo.html)
+ - [Script de Importação de Dados](../download/minicursos/R/2018/mcr_aula3_script_import.R)
+ - [Script de Análise Exploratória](../download/minicursos/R/2018/mcr_aula3_script_exploratoria.R)
+ - [Arquivos para Importação](../download/minicursos/R/2018/import.zip)
+ - [Mapa](../download/minicursos/R/2018/mapa.zip)
+ - [Exercícios](../download/minicursos/R/2018/mcr_aula3_exercicios.html)

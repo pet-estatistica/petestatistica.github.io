@@ -20,9 +20,10 @@ time.</p>
 <p align="justify">Qualquer dúvida nos mande uma mensagem nas redes sociais 
 ou venha nos fazer uma visita.</p>
   
-### Processo seletivo 2019<em>/</em>1.
+### Pŕoximo Processo seletivo no Segundo Semestre de 2019 <!-- <em>/</em>1 -->.
 
-- [Edital](../download/Edital_proc_sel_2019_1.pdf)
+
+<!-- - [Edital](../download/editais/Edital_proc_sel_2019_1.pdf)
 - [Link para inscrição](https://form.jotformz.com/90646572957673)
-  
+-->
   

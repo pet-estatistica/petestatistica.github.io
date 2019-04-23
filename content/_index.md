@@ -1,4 +1,4 @@
-<div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #931;
+<!-- <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #931;
 background-color: #e9c8c1; border-color: #cb703f;">
 <center>
 
@@ -10,14 +10,14 @@ Estão abertas as inscrições para o Minicurso de R edição 2019 ofertado pelo
 
 </center>
 </div>
-
+-->
 <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #B45F04;
 background-color: #F3E2A9; border-color:#FE9A2E ;">
 <center>
 
 Novo Post</br>
 
-<a href="download/postJAYME.html">Introdução a Terceira Revolução Industrial</a></br>
+<a href="download/posts/postJAYME.html">Introdução a Terceira Revolução Industrial</a></br>
 
 Por Jayme Gomes dos Santos Junior
 
