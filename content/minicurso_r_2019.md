@@ -8,6 +8,7 @@ As aulas aconteceram na sala multimídia do bloco PA no campus Centro Politécni
 da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
 
 ## Aula 1: 27<em>/</em>04 
+- [Script](../download/minicursos/R/2019/aula1/Aula1.R)
 
 - Slides
    - [Parte 1](../download/minicursos/R/2019/aula1/parte1.pdf)
