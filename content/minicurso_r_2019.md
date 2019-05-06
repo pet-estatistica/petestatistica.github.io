@@ -25,19 +25,22 @@ da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
 
 
 ## Aula 2: 04<em>/</em>05 
-<!--
+- [Script](../download/minicursos/R/2019/aula2/aula2.R))
+
 - Slides
-   - [Parte 1](../download/minicursos/R/2019/aula1/parte1.pdf)
-   - [Parte 2](../download/minicursos/R/2019/aula1/parte2.pdf)
+   - [Parte 1](../download/minicursos/R/2019/aula2/parte1.pdf)
+   - [Parte 2](../download/minicursos/R/2019/aula2/parte2.pdf)
     
-- [Exercícios](../download/minicursos/R/2019/aula1/exercicios2.html)
+- [Exercícios](../download/minicursos/R/2019/aula2/exercicios2.html)
+- [Gabarito.R](../download/minicursos/R/2019/aula2/gabarito.R)
    
 - Dados   
-   - [.csv](../download/minicursos/R/2019/aula1/MingotiAnA4.csv)
-   - [.txt](../download/minicursos/R/2019/aula1/MingotiAnA4.txt)
-   - [.xlsx](../download/minicursos/R/2019/aula1/MingotiAnA4.xlsx)
+   - [.csv](../download/minicursos/R/2019/aula2/MingotiTb2.2.csv)
+   - [.txt](../download/minicursos/R/2019/aula2/MingotiTb2.2.txt)
+   - [.xlsx](../download/minicursos/R/2019/aula2/MingotiTb2.2.xlsx)
+  
 
-- [Material de Apoio](../download/minicursos/R/2019/aula1/aula1.html)
+- [Material de Apoio](../download/minicursos/R/2019/aula2/aula2.html)
 -->
 ## Aula 3: 11<em>/</em>05 
 <!--
