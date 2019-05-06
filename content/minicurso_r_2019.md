@@ -25,7 +25,7 @@ da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
 
 
 ## Aula 2: 04<em>/</em>05 
-- [Script](../download/minicursos/R/2019/aula2/aula2.R))
+- [Script](../download/minicursos/R/2019/aula2/aula2.R)
 
 - Slides
    - [Parte 1](../download/minicursos/R/2019/aula2/parte1.pdf)
@@ -41,7 +41,7 @@ da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
   
 
 - [Material de Apoio](../download/minicursos/R/2019/aula2/aula2.html)
--->
+
 ## Aula 3: 11<em>/</em>05 
 <!--
 - Slides
