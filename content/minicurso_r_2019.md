@@ -32,7 +32,6 @@ da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
    - [Parte 2](../download/minicursos/R/2019/aula2/parte2.pdf)
     
 - [Exercícios](../download/minicursos/R/2019/aula2/exercicios2.html)
-
    
 - Dados   
    - [.csv](../download/minicursos/R/2019/aula2/MingotiTb2.2.csv)
