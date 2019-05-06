@@ -17,9 +17,9 @@ background-color: #F3E2A9; border-color:#FE9A2E ;">
 
 Novo Post</br>
 
-<a href="download/posts/postJAYME.html">Introdução a Terceira Revolução Industrial</a></br>
+<a href="download/posts/postMARCELO.html">ESTATÍSTICA ESPACIAL</a></br>
 
-Por Jayme Gomes dos Santos Junior
+Por MARCELO JOSÉ
 
 
 </center>
