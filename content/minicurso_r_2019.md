@@ -33,6 +33,9 @@ da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
     
 - [Exercícios](../download/minicursos/R/2019/aula2/exercicios2.html)
    
+- Dados   
+   - Utilizar dados aula 1
+  
 
 - [Material de Apoio](../download/minicursos/R/2019/aula2/aula2.html)
 
