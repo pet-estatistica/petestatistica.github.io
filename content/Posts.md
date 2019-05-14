@@ -34,8 +34,7 @@ PET. O processo se repete o quanto for necessário para disponibilizar
 conteúdo o ano todo no site do PET.</p>
 
 # Lista de posts 
-[13/04/2019 - Resolvendo problemas com Lubridate, Por Nilton Reis](../download/posts/postNILTON.html)
-
+[13/04/2019 - Resolvendo problemas com Lubridate, Por Nilton S. Reis](../download/posts/postNILTON.html)
 [06/05/19 - Estatística espacial, Por Marcelo José](../download/posts/postMARCELO.html)   
 [22/04/19 - Introdução a Terceira Revolução Industrial, Por Jayme Gomes dos Santos Junior](../download/posts/postJAYME.html)    
 [17/04/19 - Falando sobre Controle Estatístico de Processo, Por Thiago Ledur Hoeflich](../download/posts/postTHIAGO.html)  
