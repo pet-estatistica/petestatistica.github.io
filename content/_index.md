@@ -17,9 +17,9 @@ background-color: #F3E2A9; border-color:#FE9A2E ;">
 
 Novo Post</br>
 
-<a href="download/posts/postMARCELO.html">ESTATÍSTICA ESPACIAL</a></br>
+<a href="download/posts/postNILTON.html">Resolvendo problemas com Lubridate</a></br>
 
-Por MARCELO JOSÉ
+Por Nilton Reis
 
 
 </center>
