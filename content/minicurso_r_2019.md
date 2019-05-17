@@ -40,19 +40,16 @@ da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
 - [Material de Apoio](../download/minicursos/R/2019/aula2/aula2.html)
 
 ## Aula 3: 11<em>/</em>05 
-<!--
-- Slides
-   - [Parte 1](../download/minicursos/R/2019/aula1/parte1.pdf)
-   - [Parte 2](../download/minicursos/R/2019/aula1/parte2.pdf)
-    
-- [Exercícios](../download/minicursos/R/2019/aula1/exercicios2.html)
-   
-- Dados   
-   - [.csv](../download/minicursos/R/2019/aula1/MingotiAnA4.csv)
-   - [.txt](../download/minicursos/R/2019/aula1/MingotiAnA4.txt)
-   - [.xlsx](../download/minicursos/R/2019/aula1/MingotiAnA4.xlsx)
 
-- [Material de Apoio](../download/minicursos/R/2019/aula1/aula1.html)
+- [Script](../download/minicursos/R/2019/aula3/aula3.R)
+
+- Slides
+   - [Parte 1](../download/minicursos/R/2019/aula3/parte1.pdf)
+   - [Parte 2](../download/minicursos/R/2019/aula3/parte2.pdf)
+    
+   
+
+- [Material de Apoio](../download/minicursos/R/2019/aula3/aula3.html)
 -->
 ## Aula 4: 18<em>/</em>05
 <!--
