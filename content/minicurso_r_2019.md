@@ -48,9 +48,8 @@ da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
    - [Parte 2](../download/minicursos/R/2019/aula3/parte2.pdf)
     
    
-
 - [Material de Apoio](../download/minicursos/R/2019/aula3/aula3.html)
--->
+
 ## Aula 4: 18<em>/</em>05
 <!--
 - Slides
