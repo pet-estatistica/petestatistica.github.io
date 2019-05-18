@@ -50,6 +50,13 @@ da UFPR ([localização](http://www.campusmap.ufpr.br/#!map)).
    
 - [Material de Apoio](../download/minicursos/R/2019/aula3/aula3.html)
 
+## Trabalho Final para entrega em 25<em>/</em>05
+
+- [Trabalho](../download/minicursos/R/2019/aula3/trabalho_final.R)
+   
+- Dados   
+   - [.csv](../download/minicursos/R/2019/aula3/consulta.csv)
+
 
 **As aulas acontecerão no horário de 09 h até 12 h.**
 
