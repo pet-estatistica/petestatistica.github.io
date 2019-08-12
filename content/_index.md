@@ -1,16 +1,28 @@
-<!-- <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #931;
+<div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #931;
 background-color: #e9c8c1; border-color: #cb703f;">
 <center>
 
-Estão abertas as inscrições para o Minicurso de R edição 2019 ofertado pelo PET-Estatística!</br>
+Estão abertas as inscrições para o Processo Seletivo PET-Estatística 2019/2!</br>
 
-<a href="https://forms.gle/kxv93szA6aWJDNd6A">Formulário</a></br>
+<a href="https://form.jotformz.com/90646572957673">Formulário</a></br>
 
-<a href="../site/minicurso_r_2019">Mais informações</a></br>
+<a href="download/editais/Edital_proc_sel_2019_2.pdf">Edital</a></br>
 
 </center>
 </div>
--->
+
+<div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #B45F04;
+background-color: #F3E2A9; border-color:#FE9A2E ;">
+<center>
+
+Estão abertas as inscrições para voluntariado da Feira de Cursos e Profissões 2019</br>
+
+<a href="https://form.jotformz.com/82126236947663">Formulário</a></br>
+
+</center>
+</div>
+
+<!-- 
 <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #B45F04;
 background-color: #F3E2A9; border-color:#FE9A2E ;">
 <center>
@@ -24,7 +36,7 @@ Por Nilton Reis
 
 </center>
 </div>
-
+-->
  
 ## O PET
 

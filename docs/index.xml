@@ -61,7 +61,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pet-estatistica.github.io/site/blog/1/01/01/main/</guid>
-      <description>+++ title = “Teste de arquivo Rmarkdown” author = “Walmes Zeviani” date = “2017-12-14” tags = [“teste”, “rmarkdown”] categories = [“programming”] banner = “img/chico/imgprefix-plot1-1.png” +++
+      <description> +++ title = “Teste de arquivo Rmarkdown” author = “Walmes Zeviani” date = “2017-12-14” tags = [“teste”, “rmarkdown”] categories = [“programming”] banner = “img/chico/imgprefix-plot1-1.png” +++
 Instruções Esse documento Rmarkdown deve ser convertido em md usando knitr::knit(&amp;quot;doc.Rmd&amp;quot;). Foi observado que o caption para figuras não funciona. As equações em LaTeX também não.
  Figure 1: Olá! Teste de caption.   </description>
     </item>
@@ -83,8 +83,7 @@ link para pagina do parceiro url: &amp;ldquo;https://cran.r-project.org/&amp;quo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pet-estatistica.github.io/site/blog/1/01/01/modelo_alerta/</guid>
-      <description>CAMPANHA DE ARRECADAÇÃO. Aviso!!
-  &amp;ndash;&amp;gt;</description>
+      <description>&amp;lt;</description>
     </item>
     
     <item>
