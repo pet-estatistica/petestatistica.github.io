@@ -11,6 +11,7 @@ Estão abertas as inscrições para o Processo Seletivo PET-Estatística 2019/2!
 </center>
 </div>
 
+<!--
 <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #B45F04;
 background-color: #F3E2A9; border-color:#FE9A2E ;">
 <center>
@@ -21,22 +22,23 @@ Estão abertas as inscrições para voluntariado da Feira de Cursos e Profissõe
 
 </center>
 </div>
+-->
 
-<!-- 
+ 
 <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #B45F04;
 background-color: #F3E2A9; border-color:#FE9A2E ;">
 <center>
 
 Novo Post</br>
 
-<a href="download/posts/postNILTON.html">Resolvendo problemas com Lubridate</a></br>
+<a href="download/posts/postFELIPE.html">Métodos Estatísticos: Uma Visão Geométrica</a></br>
 
-Por Nilton Reis
+Felipe Cordeiro Melo
 
 
 </center>
 </div>
--->
+
  
 ## O PET
 
