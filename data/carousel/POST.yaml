@@ -1,13 +1,13 @@
 weight: 1
-title: "Métodos Estatísticos: Uma Visão Geométrica"
+title: "Primeiros Passos com tidyr e deplyr"
 description: >
-  <p align="justify">
-  Conhecer formas diferentes e pouco usuais para resoluções de problemas 
-  é de suma importância para o nosso desenvolvimento pessoal e acadêmico, 
-  e a estatística não foge disso, existem formas pouco conhecidas para 
-  trabalhar desde o problema mais simples, até os mais complicados. Esse 
-  post do PETiano Felipe Melo visa apresentar conceitos e estimações básicas 
-  da estatística utilizando o Método Geométrico.
+ <p align="justify">
+ Arrumar e Transformar os dados podem se tornar os piores pesadelos de 
+ estatísticos, cientistas de dados e aficcionados por análise. Estas duas 
+ etapas são de suma importância para uma análise consistente de dados e 
+ podem ser consideradas as mais demoradas, trabalhosas e desgastantes tarefas 
+ no processo de análise. Além disso são, sem dúvidas, etapas extremamente 
+ negligenciadas nos cursos de graduação e extremamente exigidas no mercado.
   </p>
-image: "img/carousel/posts/Rplot.png"
+image: "img/carousel/posts/manipulation.png.jpg"
 # https://static1.squarespace.com/static/578beaa8e3df28207e5e1970/t/58f018a11b631b6e83616060/1492129954399/business-intelligence.jpg?format=1500w
