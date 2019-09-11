@@ -1,13 +1,12 @@
 weight: 1
-title: "Primeiros Passos com tidyr e deplyr"
+title: "Conceitos Básicos de Amostragem"
 description: >
  <p align="justify">
- Arrumar e Transformar os dados podem se tornar os piores pesadelos de 
- estatísticos, cientistas de dados e aficcionados por análise. Estas duas 
- etapas são de suma importância para uma análise consistente de dados e 
- podem ser consideradas as mais demoradas, trabalhosas e desgastantes tarefas 
- no processo de análise. Além disso são, sem dúvidas, etapas extremamente 
- negligenciadas nos cursos de graduação e extremamente exigidas no mercado.
+ A amostragem está presente em nossas vidas diariamente, seja tomando 
+ decisão em que marca comprar de determinado produto baseado em experiências 
+ anteriores, ou tirando uma média do consumo de um veículo, etc. Porém, 
+ no geral, as pessoas não possuem uma noção do que seria a amostragem, 
+ baseado nisso, esse post possui o intuito de apresentar uma idéia da técnica.
   </p>
-image: "img/carousel/posts/manipulation.png.jpg"
+image: "img/carousel/posts/amostragem.jpg"
 # https://static1.squarespace.com/static/578beaa8e3df28207e5e1970/t/58f018a11b631b6e83616060/1492129954399/business-intelligence.jpg?format=1500w

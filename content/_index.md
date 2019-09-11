@@ -33,9 +33,9 @@ background-color: #F3E2A9; border-color:#FE9A2E ;">
 
 Novo Post</br>
 
-<a href="download/posts/postLINEU2.html">Primeiros Passos com tidyr e deplyr</a></br>
+<a href="download/posts/postJEOVA.html">Conceitos Básicos de Amostragem</a></br>
 
-Lineu Alberto
+Jeová J. M.
 
 
 </center>
