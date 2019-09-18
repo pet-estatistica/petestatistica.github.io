@@ -35,9 +35,9 @@ conteúdo o ano todo no site do PET.</p>
 
 # Lista de posts 
 
+[18/09/19 - A importância da Estatística Espacial na pesquisa eleitoral, Por Marcelo José](../download/posts/postMARCELO2.html)
 
-[11/09/19 - Conceitos Básicos de Amostragem, Por Jeová J. M.](../download/posts/postJEOVA.html)
- 
+[11/09/19 - Conceitos Básicos de Amostragem, Por Jeová J. M.](../download/posts/postJEOVA.html) 
 [28/08/19 - Métodos Estatísticos: Uma Visão Geométrica, Por Felipe Cordeiro Melo](../download/posts/postFELIPE.html)	
 [13/05/19 - Resolvendo problemas com Lubridate, Por Nilton S. Reis](../download/posts/postNILTON.html)	
 [06/05/19 - Estatística espacial, Por Marcelo José](../download/posts/postMARCELO.html)   
