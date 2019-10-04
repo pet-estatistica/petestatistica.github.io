@@ -33,9 +33,9 @@ background-color: #F3E2A9; border-color:#FE9A2E ;">
 
 Novo Post</br>
 
-<a href="download/posts/postMARCELO2.html">A importância da Estatística Espacial na Pesquisa Eleitoral</a></br>
+<a href="download/posts/postWILLIAN2.html">Modelo de regressão não linear com observações intervalares</a></br>
 
-Por Marcelo José
+Por Willian Ramos
 
 
 </center>
