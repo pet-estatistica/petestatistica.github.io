@@ -2,15 +2,10 @@ weight: 1
 title: "Modelo de regressão não linear com observações intervalares"
 description: >
  <p align="justify">
- Modelos de regressão são utilizados em diversas áreas da sociedade para 
- resolver diferentes problemas. Em algumas situações, a utilização de 
- modelos desse tipo é complicada por diversas questões geralmente envolvendo 
- o processo da obtenção dos dados, as adversidades vão desde aspectos 
- financeiros a problemas de coleta de dados intrínsecos ao problema estudado. 
- Um desses problemas envolve a utilização de dados intervalares, esse tipo 
- de observação dificulta a estimação dos coeficientes de um modelo de 
- regressão e como realizar essa estimação é o objetivo deste post escrito 
- pelo petiano Willian Ramos.
+ Este post feito pelo petiano Jayme Gomes dos Santos Junior tem como 
+ objetivo apresentar a sintaxe do Markdown, uma linguagem de marcação que 
+ possibilita ao usuário se preocupar em escrever e produzir documentos 
+ reproduzíveis em html, pdf e outros formatos.
  </p>
-image: "img/carousel/posts/modelo.png"
+image: "img/carousel/posts/rmd.png"
 # https://static1.squarespace.com/static/578beaa8e3df28207e5e1970/t/58f018a11b631b6e83616060/1492129954399/business-intelligence.jpg?format=1500w

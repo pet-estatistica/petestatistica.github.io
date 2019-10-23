@@ -33,9 +33,9 @@ background-color: #F3E2A9; border-color:#FE9A2E ;">
 
 Novo Post</br>
 
-<a href="download/posts/postWILLIAN2.html">Modelo de regressão não linear com observações intervalares</a></br>
+<a href="download/posts/postJAYME2.html">Iniciação ao RMarkdown</a></br>
 
-Por Willian Ramos
+Por Jayme Gomes dos Santos Junior
 
 
 </center>
