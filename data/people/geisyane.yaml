@@ -1,7 +1,7 @@
-weight:  201910
+weight:  39201910
 name: "Geisyane Karina Gonzaga"
 image: "../img/people/geisyane.jpeg"
-url: "facebook.com/geisy.karina.7"
+url: "https://facebook.com/geisy.karina.7"
 email: "geisyk60@gmail.com"
 lattes: "http://lattes.cnpq.br/8972095506363470"
 description: >
@@ -13,7 +13,9 @@ description: >
   
    - Estatística Computacional
    
+
    - Regressão não linear
+
    
    - Séries Temporais
            
