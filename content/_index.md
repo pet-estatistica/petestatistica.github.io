@@ -13,18 +13,18 @@ Estão abertas as inscrições para o Processo Seletivo PET-Estatística 2019/2!
 </div>
 -->
 
-<!--
+
 <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #B45F04;
 background-color: #F3E2A9; border-color:#FE9A2E ;">
 <center>
 
-Estão abertas as inscrições para voluntariado da Feira de Cursos e Profissões 2019</br>
+Estão abertas as inscrições para o seminário discente!</br>
 
-<a href="https://form.jotformz.com/82126236947663">Formulário</a></br>
+<a href="https://form.jotform.com/93102720431140">Formulário</a></br>
 
 </center>
 </div>
--->
+
 
  
 <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #B45F04;
