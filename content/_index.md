@@ -33,9 +33,9 @@ background-color: #F3E2A9; border-color:#FE9A2E ;">
 
 Novo Post</br>
 
-<a href="download/posts/postJAYME2.html">Iniciação ao RMarkdown</a></br>
+<a href="download/posts/postHELEN.html">O Diagrama da Rosa</a></br>
 
-Por Jayme Gomes dos Santos Junior
+Por Helen Eduarda S. Lourenço
 
 
 </center>

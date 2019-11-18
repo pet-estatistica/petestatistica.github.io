@@ -35,8 +35,10 @@ conteúdo o ano todo no site do PET.</p>
 
 # Lista de posts 
 
-[23/10/19 - Iniciação ao Rmarkdown, Por Jayme Gomes dos santos Junior](../download/posts/postJAYME2.html)
 
+[18/11/19 - Iniciação ao Rmarkdown, Helen Eduarda S. Lourenço](../download/posts/postHELEN.html)
+
+[23/10/19 - Iniciação ao Rmarkdown, Por Jayme Gomes dos santos Junior](../download/posts/postJAYME2.html)     	
 [04/10/19 - Modelo de regressão não linear com observações intervalares, Por Willian Ramos](../download/posts/postWILLIAN2html)    
 [18/09/19 - A importância da Estatística Espacial na pesquisa eleitoral, Por Marcelo José](../download/posts/postMARCELO2.html)    
 [11/09/19 - Conceitos Básicos de Amostragem, Por Jeová J. M.](../download/posts/postJEOVA.html) 
