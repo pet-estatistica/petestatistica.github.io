@@ -13,6 +13,16 @@ Estão abertas as inscrições para o Processo Seletivo PET-Estatística 2019/2!
 </div>
 -->
 
+<div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #931;
+background-color: #e9c8c1; border-color: #cb703f;">
+<center>
+
+Estão abertas as inscrições para o Minicurso RMarkdown!</br>
+
+<a href="https://form.jotformz.com/93224592191660">Formulário</a></br>
+
+</center>
+</div>
 
 <div class="alert alert-success" style="font-size:120%; font-weight: normal; color: #B45F04;
 background-color: #F3E2A9; border-color:#FE9A2E ;">
