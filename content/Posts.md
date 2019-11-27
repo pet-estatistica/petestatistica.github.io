@@ -35,14 +35,14 @@ conteúdo o ano todo no site do PET.</p>
 
 # Lista de posts 
 
+[27/11/19 - O que é OLAP?, Por Altamiro Antonio Basiewics](../download/posts/postALTAMIRO2.html)
 
-[18/11/19 - Iniciação ao Rmarkdown, Helen Eduarda S. Lourenço](../download/posts/postHELEN.html)
-
-[23/10/19 - Iniciação ao Rmarkdown, Por Jayme Gomes dos santos Junior](../download/posts/postJAYME2.html)     	
+[18/11/19 - Iniciação ao Rmarkdown, Helen Eduarda S. Lourenço](../download/posts/postHELEN.html)    
+[23/10/19 - Iniciação ao Rmarkdown, Por Jayme Gomes dos santos Junior](../download/posts/postJAYME2.html)     	 
 [04/10/19 - Modelo de regressão não linear com observações intervalares, Por Willian Ramos](../download/posts/postWILLIAN2html)    
 [18/09/19 - A importância da Estatística Espacial na pesquisa eleitoral, Por Marcelo José](../download/posts/postMARCELO2.html)    
-[11/09/19 - Conceitos Básicos de Amostragem, Por Jeová J. M.](../download/posts/postJEOVA.html) 
-[28/08/19 - Métodos Estatísticos: Uma Visão Geométrica, Por Felipe Cordeiro Melo](../download/posts/postFELIPE.html)	
+[11/09/19 - Conceitos Básicos de Amostragem, Por Jeová J. M.](../download/posts/postJEOVA.html)   
+[28/08/19 - Métodos Estatísticos: Uma Visão Geométrica, Por Felipe Cordeiro Melo](../download/posts/postFELIPE.html)   	
 [13/05/19 - Resolvendo problemas com Lubridate, Por Nilton S. Reis](../download/posts/postNILTON.html)	
 [06/05/19 - Estatística espacial, Por Marcelo José](../download/posts/postMARCELO.html)   
 [22/04/19 - Introdução a Terceira Revolução Industrial, Por Jayme Gomes dos Santos Junior](../download/posts/postJAYME.html)    

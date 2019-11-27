@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: white;
+  text-align: left;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1>O que é OLAP ? </h1>
+
+<img src="https://www.guru99.com/images/1/022218_1238_WhatisOLAPO1.png" alt="Avatar" style="width:200px">
+
+<p>Os estatisticos e cientistas de dados frequentemente precisam agrupar e agregar dados. Essas operações em bancos de dados relacionais consomem muitos recursos. Com o OLAP(On-Line Analytical Processing), os dados podem ser pré-calculados e agregados, tornando a análise mais rápida.</p>
+<p>OLAP é uma categoria de software que permite aos usuários analisar informações de vários sistemas de banco de dados ao mesmo tempo. É uma tecnologia que permite aos analistas extrair e visualizar dados de diferentes pontos de vista. OLAP significa Processamento analítico online</p>
+<p>Cubo OLAP:</p>
+<p>No centro do OLAP, o conceito é um cubo OLAP ou cubo de dados. O cubo OLAP é uma estrutura de dados otimizada para análise de dados muito rápida e eficiente.
+
+O cubo OLAP consiste em instancias numéricas chamadas medidas que são categorizadas pelas dimensões. O cubo OLAP também é chamado de hipercubo.
+
+Normalmente, as operações e análises de dados são realizadas usando uma planilha simples, onde os valores dos dados são organizados em formato de linhas e colunas. Isso é ideal para dados bidimensionais. No entanto, o OLAP contém dados multidimensionais, com dados geralmente obtidos de fontes diferentes e não relacionadas. Usar uma planilha não é uma opção ideal. O cubo pode armazenar e analisar dados multidimensionais de maneira lógica e ordenada.</p>
+<p>Como funciona?
+
+Um data warehouse extrairia informações de várias fontes e formatos de dados, como arquivos de texto, planilha do excel, arquivos multimídia etc.
+
+Os dados extraídos são limpos e transformados. Os dados são carregados em um servidor OLAP (ou cubo OLAP) em que as informações são pré-calculadas com antecedência para análise posterior.
+
+Operações analíticas básicas do OLAP
+ São quatro as operações analíticas no OLAP:</p>
+
+
+<h1>1) Rolar:</h1>
+
+
+<img src="https://www.guru99.com/images/1/022218_1238_WhatisOLAPO2.png" alt="Avatar" style="width:300px">
+
+<p>A agregação também é conhecida como "consolidação". A operação Rolar pode ser realizada de duas maneiras
+
+Reduzindo dimensões
+Subindo na hierarquia do conceito. A hierarquia de conceitos é um sistema de agrupamento de coisas com base em sua ordem ou nível.
+Considere o diagrama a seguir</p>
+<p>Neste exemplo, as cidades Nova Jersey e Lost Angles foram acumuladas no país EUA
+Os números de vendas de Nova Jersey e Los Angeles são 440 e 1560, respectivamente. Tornam-se 2000 após a rolagem.
+Nesse processo de agregação, os dados são a hierarquia de localidades que se movem da cidade para o país.
+No processo de rolagem, pelo menos uma ou mais dimensões precisam ser removidas. Neste exemplo, a dimensão  quarta é removida.</p>
+
+<h1>2) Detalhamento</h1>
+
+
+<img src="https://www.guru99.com/images/1/022218_1238_WhatisOLAPO3.png" alt="Avatar" style="width:300px">
+
+<p>No detalhamento, os dados são fragmentados em partes menores. É o oposto do processo de rolar. Isso pode ser feito via
+
+Movendo a hierarquia de conceitos
+Aumentando uma dimensão</p>
+<p>
+
+
+<h1>3) Fatia:</h1>
+
+
+<img src="https://www.guru99.com/images/1/022218_1238_WhatisOLAPO4.png" alt="Avatar" style="width:300px">
+
+
+
+Aqui, uma dimensão é selecionada e um novo subcubo é criado.
+
+O diagrama a seguir explica como a operação de fatiar foi executada: A dimensão do tempo dimensão é cortada com Q1 atravéz do filtro.
+Um novo cubo é criado completamente.</p>
+<p>Dados:
+
+
+<img src="https://www.guru99.com/images/1/022218_1238_WhatisOLAPO5.png" alt="Avatar" style="width:300px">
+
+
+
+<p>Esta operação é semelhante a uma "fatiamento". A diferença nos dados é que você seleciona 2 ou mais dimensões que resultam na criação de um subcubo.</p>
+
+
+
+<h1>4) Pivô</h1>
+
+
+
+
+
+No Pivot, você gira os eixos de dados para fornecer uma apresentação substituta dos dados.
+
+No exemplo a seguir, o pivô é baseado nos tipos de items.
+<img src="https://www.guru99.com/images/1/022218_1238_WhatisOLAPO6.png" alt="Avatar" style="width:300px">
+</p>
+<h1>Vantagens do OLAP</h1>
+
+<p>
+O OLAP é uma plataforma para todos os tipos de negócios, incluindo planejamento, orçamento, geração de relatórios e análise entre outros.
+Informações e cálculos são consistentes em um cubo OLAP. Este é um beneficio importante..
+Pesquisa facilmente no banco de dados OLAP termos gerais ou específicos.
+O OLAP fornece os blocos de construção para ferramentas de modelagem de negócios, ferramentas de mineração de dados, ferramentas de relatório de desempenho.
+É bom para analisar séries temporais.
+Encontrar alguns clusters e outliers é fácil com o OLAP.
+É um poderoso sistema de processo analítico de visualização on-line que fornece tempos de resposta mais rápidos</p>
+
+<h1>Desvantagens do OLAP</h1>
+
+<p>
+O OLAP requer a organização dos dados em um esquema em estrela ou floco de neve. Esses esquemas são complicados de implementar e administrar
+Você não pode ter um grande número de dimensões em um único cubo OLAP
+Os dados transacionais não podem ser acessados ​​com o sistema OLAP.
+Qualquer modificação em um cubo OLAP precisa de uma atualização completa do cubo. Este é um processo demorado
+Resumo:</p>
+
+
+</body>
+</html>
