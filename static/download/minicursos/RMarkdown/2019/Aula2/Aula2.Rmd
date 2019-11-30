@@ -1,0 +1,45 @@
+---
+title: "Meu Relatório"
+author: 
+- Autor1
+- Autor2
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"
+output:
+  pdf_document: default
+  word_document: default
+  html_document: 
+    code_folding: hide
+    number_sections: yes
+    toc: yes
+    toc_float: yes
+subtitle: Subtítulo
+header-includes: \usepackage[brazil]{babel}
+                 \usepackage{amsmath}
+                 \usepackage{float}
+                 \usepackage{bm}
+csl: ABNT_UFPR_2011.csl
+bibliography: refs.bib
+---
+
+```{r, include=FALSE}
+
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+```{r, echo=FALSE, include=FALSE, results='hide', message=FALSE, warning=FALSE}
+library(tidyverse)
+library(kableExtra)
+library(readxl)
+library(gridExtra)
+# 
+# tabela1 <- head(base, n = 10)
+# T_1 <- kableExtra::kable(tabela1, align = 'lcccccc', booktabs = TRUE) %>% 
+#   kableExtra::kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+# Introdução 
+
+@Peng2009
+
+
+# Referências
