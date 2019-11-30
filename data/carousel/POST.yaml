@@ -1,10 +1,12 @@
 weight: 1
-title: "O que é OLAP?"
+title: "O Diagrama da Rosa"
 description: >
  <p align="justify">
- O cubo de dados é uma importante ferramenta para os estatísticos e cientistas de dados. Trabalhar 
- com fontes de dados multidimensionais e acessar as imformações pertinentes 
- fica mais fácil com cubo de dados.
+ Que os gráficos são excelentes ferramentas de comunicação entre estatísticos 
+ e a sociedade, nós já sabemos. Um exemplo genuíno é o gráfico de pizza 
+ “Diagrama da Rosa”, elaborado por Florence Nightingale, que revolucionou 
+ os procedimentos dentro dos hospitais. Confira o post de autoria da PETiana 
+ Helen Eduarda S. Lourenço para mais informações.
  </p>
-image: "img/carousel/posts/cubo.jpg"
+image: "img/carousel/posts/rosa.jpg"
 # https://static1.squarespace.com/static/578beaa8e3df28207e5e1970/t/58f018a11b631b6e83616060/1492129954399/business-intelligence.jpg?format=1500w
